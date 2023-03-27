@@ -1,0 +1,17 @@
+2023-03-27:
+    1. Change way to import path.
+        I use os.getcwd as a basic data path in checkFileExist, and inheritance the variables to every step.
+
+    2. To solve the following error:
+
+    {
+        File "/Users/lihiko/repo/personal/PolyU/Get_flight/components/checkFileExist.py", line 22, in check_file_exist
+    ifFileNotExisted.ifFileNotExisted(current_path)
+    TypeError: ifFileNotExisted() takes 0 positional arguments but 1 was given
+    }
+    Because I forgot to chang the current path, so the programme confused.
+    I AM CARELESS!!
+
+    3. I've added method which can allow programme run in windows path.
+
+    After the motification, the programme run successfully.

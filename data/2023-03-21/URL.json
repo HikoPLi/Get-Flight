@@ -1,0 +1,11 @@
+{
+    "ALL": "https://www.hongkongairport.com/flightinfo-rest/rest/flights?span=1&date=2023-03-21&lang=en",
+    "Cargo": {
+        "Arrival": "https://www.hongkongairport.com/flightinfo-rest/rest/flights?span=1&date=2023-03-21&cargo=true&arrival=true&lang=en",
+        "Departure": "https://www.hongkongairport.com/flightinfo-rest/rest/flights?span=1&date=2023-03-21&cargo=true&arrival=false&lang=en"
+    },
+    "Passenger": {
+        "Arrival": "https://www.hongkongairport.com/flightinfo-rest/rest/flights?span=1&date=2023-03-21&cargo=false&arrival=true&lang=en",
+        "Departure": "https://www.hongkongairport.com/flightinfo-rest/rest/flights?span=1&date=2023-03-21&cargo=false&arrival=false&lang=en"
+    }
+}
