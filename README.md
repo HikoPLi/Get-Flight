@@ -71,7 +71,7 @@ Place a kitten here and pet it once for free.
 
 Place a puppy here and pet it once for free.  
 
-# Contact Me
+# Contact Me (Englihs and Chinese are available)
 If you have questions or have some ideas to prove this project, you can contact me through this e-mail:
 
         lihikopgithub@outlook.com
