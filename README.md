@@ -22,11 +22,11 @@ This programme can only run on mac because of the path.
  To download this programme, you can get access to github.com.
  You may type this command to clone the repo from github:
 
-    git clone git@github.com:HikoPLi/Get_flight.git
+    git clone git@github.com:HikoPLi/Get-Flight.git
 
 Or you may get access to the repo:
 
-    https://github.com/HikoPLi/Get_flight
+    https://github.com/HikoPLi/Get-Flight
 
 And download the .zip file.
 
