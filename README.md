@@ -10,9 +10,9 @@ If I want to check the number of airlines at 2023-03-20:
 
     Input: 2023-03-20
 Output:  
-![Image text](https://github.com/HikoPLi/Get_flight/blob/main/Images4README/example.png)  
+![Image text](https://github.com/HikoPLi/Get-Flight/blob/main/Images4README/example.png)  
   
-![Image text](https://github.com/HikoPLi/Get_flight/blob/main/Images4README/output.png)  
+![Image text](https://github.com/HikoPLi/Get-Flight/blob/main/Images4README/output.png)  
 
 
 # Get_flight
