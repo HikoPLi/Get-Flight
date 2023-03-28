@@ -42,7 +42,7 @@
                 "origin": [
                     "CGO"
                 ],
-                "status": "Est at 18:25 (28/03/2023)",
+                "status": "At gate 18:48 (28/03/2023)",
                 "statusCode": null,
                 "time": "06:50"
             },
@@ -582,7 +582,7 @@
                     "CVG",
                     "ANC"
                 ],
-                "status": "Est at 11:03",
+                "status": "At gate 11:15",
                 "statusCode": null,
                 "time": "04:30"
             },
@@ -669,7 +669,7 @@
                     "FRA",
                     "MXP"
                 ],
-                "status": "Est at 08:05 (29/03/2023)",
+                "status": "Est at 08:02 (29/03/2023)",
                 "statusCode": null,
                 "time": "06:35"
             },
@@ -725,7 +725,7 @@
                 "origin": [
                     "DWC"
                 ],
-                "status": "Est at 11:27",
+                "status": "At gate 11:48",
                 "statusCode": null,
                 "time": "07:15"
             },
@@ -811,7 +811,7 @@
                     "ORD",
                     "ANC"
                 ],
-                "status": "Landed 10:49",
+                "status": "At gate 11:12",
                 "statusCode": null,
                 "time": "09:55"
             },
@@ -839,7 +839,7 @@
                 "origin": [
                     "ICN"
                 ],
-                "status": "Landed 10:44",
+                "status": "At gate 11:05",
                 "statusCode": null,
                 "time": "10:30"
             },
@@ -853,7 +853,7 @@
                 "origin": [
                     "GYD"
                 ],
-                "status": "Delayed",
+                "status": "At gate 18:34",
                 "statusCode": null,
                 "time": "10:30"
             },
@@ -881,7 +881,7 @@
                 "origin": [
                     "ICN"
                 ],
-                "status": "Landed 10:47",
+                "status": "At gate 11:05",
                 "statusCode": null,
                 "time": "10:55"
             },
@@ -910,7 +910,7 @@
                     "SDF",
                     "HAN"
                 ],
-                "status": "",
+                "status": "At gate 15:38",
                 "statusCode": null,
                 "time": "11:05"
             },
@@ -925,7 +925,7 @@
                     "GYD",
                     "DWC"
                 ],
-                "status": "Est at 15:42",
+                "status": "At gate 16:00",
                 "statusCode": null,
                 "time": "11:30"
             },
@@ -954,7 +954,7 @@
                     "DOH",
                     "SIN"
                 ],
-                "status": "Est at 12:53",
+                "status": "At gate 13:12",
                 "statusCode": null,
                 "time": "12:15"
             },
@@ -969,7 +969,7 @@
                     "CVG",
                     "ANC"
                 ],
-                "status": "Est at 13:31",
+                "status": "At gate 13:47",
                 "statusCode": null,
                 "time": "12:35"
             },
@@ -984,7 +984,7 @@
                     "LEJ",
                     "ICN"
                 ],
-                "status": "Est at 12:25",
+                "status": "At gate 12:40",
                 "statusCode": null,
                 "time": "12:55"
             },
@@ -998,7 +998,7 @@
                 "origin": [
                     "NRT"
                 ],
-                "status": "Est at 13:05",
+                "status": "At gate 13:07",
                 "statusCode": null,
                 "time": "13:00"
             },
@@ -1012,7 +1012,7 @@
                 "origin": [
                     "LEJ"
                 ],
-                "status": "Est at 12:59",
+                "status": "At gate 13:15",
                 "statusCode": null,
                 "time": "13:15"
             },
@@ -1026,7 +1026,7 @@
                 "origin": [
                     "BKK"
                 ],
-                "status": "",
+                "status": "At gate 13:57",
                 "statusCode": null,
                 "time": "13:50"
             },
@@ -1055,7 +1055,7 @@
                     "KUL",
                     "BKI"
                 ],
-                "status": "",
+                "status": "At gate 14:06",
                 "statusCode": null,
                 "time": "14:00"
             },
@@ -1070,7 +1070,7 @@
                     "NRT",
                     "TPE"
                 ],
-                "status": "Est at 18:40",
+                "status": "At gate 19:04",
                 "statusCode": null,
                 "time": "14:10"
             },
@@ -1099,7 +1099,7 @@
                     "JFK",
                     "ANC"
                 ],
-                "status": "Est at 18:55",
+                "status": "At gate 19:16",
                 "statusCode": null,
                 "time": "15:00"
             },
@@ -1114,7 +1114,7 @@
                     "PHL",
                     "CGN"
                 ],
-                "status": "Est at 14:59",
+                "status": "At gate 15:17",
                 "statusCode": null,
                 "time": "15:05"
             },
@@ -1129,7 +1129,7 @@
                     "LEJ",
                     "NRT"
                 ],
-                "status": "Est at 14:46",
+                "status": "At gate 15:05",
                 "statusCode": null,
                 "time": "15:10"
             },
@@ -1144,7 +1144,7 @@
                     "SDF",
                     "ANC"
                 ],
-                "status": "Est at 16:35",
+                "status": "At gate 16:47",
                 "statusCode": null,
                 "time": "15:25"
             },
@@ -1159,7 +1159,7 @@
                     "CVG",
                     "NGO"
                 ],
-                "status": "",
+                "status": "At gate 16:55",
                 "statusCode": null,
                 "time": "15:50"
             },
@@ -1174,7 +1174,7 @@
                     "MXP",
                     "DWC"
                 ],
-                "status": "Est at 16:00",
+                "status": "At gate 16:17",
                 "statusCode": null,
                 "time": "16:20"
             },
@@ -1190,7 +1190,7 @@
                     "GDL",
                     "ANC"
                 ],
-                "status": "Est at 23:48",
+                "status": "Est at 23:42",
                 "statusCode": null,
                 "time": "16:25"
             },
@@ -1223,7 +1223,7 @@
                 "origin": [
                     "LEJ"
                 ],
-                "status": "Est at 18:35",
+                "status": "At gate 18:50",
                 "statusCode": null,
                 "time": "16:30"
             },
@@ -1238,7 +1238,7 @@
                     "ORD",
                     "ANC"
                 ],
-                "status": "Est at 18:37",
+                "status": "At gate 19:02",
                 "statusCode": null,
                 "time": "16:40"
             },
@@ -1266,7 +1266,7 @@
                 "origin": [
                     "ICN"
                 ],
-                "status": "",
+                "status": "At gate 16:49",
                 "statusCode": null,
                 "time": "16:45"
             },
@@ -1280,7 +1280,7 @@
                 "origin": [
                     "LGG"
                 ],
-                "status": "",
+                "status": "At gate 17:41",
                 "statusCode": null,
                 "time": "17:00"
             },
@@ -1294,7 +1294,7 @@
                 "origin": [
                     "SIN"
                 ],
-                "status": "Est at 19:20",
+                "status": "At gate 18:57",
                 "statusCode": null,
                 "time": "17:30"
             },
@@ -1308,7 +1308,7 @@
                 "origin": [
                     "SIN"
                 ],
-                "status": "",
+                "status": "At gate 18:03",
                 "statusCode": null,
                 "time": "18:10"
             },
@@ -1322,7 +1322,7 @@
                 "origin": [
                     "TPE"
                 ],
-                "status": "",
+                "status": "At gate 18:11",
                 "statusCode": null,
                 "time": "18:15"
             },
@@ -1337,7 +1337,7 @@
                     "ATL",
                     "ANC"
                 ],
-                "status": "Est at 19:45",
+                "status": "Est at 19:52",
                 "statusCode": null,
                 "time": "18:20"
             },
@@ -1351,7 +1351,7 @@
                 "origin": [
                     "SIN"
                 ],
-                "status": "",
+                "status": "At gate 18:22",
                 "statusCode": null,
                 "time": "18:40"
             },
@@ -1365,7 +1365,7 @@
                 "origin": [
                     "RUH"
                 ],
-                "status": "",
+                "status": "At gate 19:07",
                 "statusCode": null,
                 "time": "18:55"
             },
@@ -1393,7 +1393,7 @@
                 "origin": [
                     "SYD"
                 ],
-                "status": "",
+                "status": "Est at 22:28",
                 "statusCode": null,
                 "time": "19:25"
             },
@@ -1407,7 +1407,7 @@
                 "origin": [
                     "TPE"
                 ],
-                "status": "",
+                "status": "Est at 20:13",
                 "statusCode": null,
                 "time": "20:45"
             },
@@ -1423,7 +1423,7 @@
                     "ANC",
                     "ICN"
                 ],
-                "status": "",
+                "status": "Est at 20:43",
                 "statusCode": null,
                 "time": "21:05"
             },
@@ -1467,7 +1467,7 @@
                     "JFK",
                     "ANC"
                 ],
-                "status": "Est at 08:55 (29/03/2023)",
+                "status": "Est at 09:42 (29/03/2023)",
                 "statusCode": null,
                 "time": "23:20"
             },
@@ -1493,10 +1493,9 @@
                     }
                 ],
                 "origin": [
-                    "LAX",
                     "LEJ"
                 ],
-                "status": "Est at 05:05 (29/03/2023)",
+                "status": "Est at 23:39",
                 "statusCode": null,
                 "time": "23:25"
             },
@@ -2229,7 +2228,7 @@
                     "MNL"
                 ],
                 "stand": "S45",
-                "status": "At gate 09:50",
+                "status": "At gate 09:49",
                 "statusCode": null,
                 "terminal": "",
                 "time": "09:45"
@@ -2247,7 +2246,7 @@
                     "CNX"
                 ],
                 "stand": "S29",
-                "status": "At gate 09:45",
+                "status": "At gate 09:43",
                 "statusCode": null,
                 "terminal": "",
                 "time": "09:45"
@@ -2299,7 +2298,7 @@
                     "SIN"
                 ],
                 "stand": "W46",
-                "status": "At gate 09:56",
+                "status": "At gate 09:57",
                 "statusCode": null,
                 "terminal": "",
                 "time": "10:05"
@@ -2393,7 +2392,7 @@
                     "WUX"
                 ],
                 "stand": "S47",
-                "status": "At gate 09:50",
+                "status": "At gate 09:51",
                 "statusCode": null,
                 "terminal": "",
                 "time": "10:20"
@@ -2411,7 +2410,7 @@
                     "MNL"
                 ],
                 "stand": "W61",
-                "status": "At gate 10:28",
+                "status": "At gate 10:26",
                 "statusCode": null,
                 "terminal": "",
                 "time": "10:30"
@@ -2487,7 +2486,7 @@
                     "PEK"
                 ],
                 "stand": "N66",
-                "status": "Landed 10:52",
+                "status": "At gate 11:04",
                 "statusCode": null,
                 "terminal": "",
                 "time": "11:05"
@@ -2505,7 +2504,7 @@
                     "KUL"
                 ],
                 "stand": "S29",
-                "status": "Est at 10:59",
+                "status": "At gate 11:11",
                 "statusCode": null,
                 "terminal": "",
                 "time": "11:10"
@@ -2523,7 +2522,7 @@
                     "SIN"
                 ],
                 "stand": "N24",
-                "status": "Est at 11:06",
+                "status": "At gate 11:18",
                 "statusCode": null,
                 "terminal": "",
                 "time": "11:20"
@@ -2541,7 +2540,7 @@
                     "XMN"
                 ],
                 "stand": "N30",
-                "status": "Est at 11:13",
+                "status": "At gate 11:24",
                 "statusCode": null,
                 "terminal": "",
                 "time": "11:20"
@@ -2559,7 +2558,7 @@
                     "JJN"
                 ],
                 "stand": "N9",
-                "status": "Est at 11:08",
+                "status": "At gate 11:21",
                 "statusCode": null,
                 "terminal": "",
                 "time": "11:30"
@@ -2577,7 +2576,7 @@
                     "CAN"
                 ],
                 "stand": "W65",
-                "status": "",
+                "status": "At gate 12:15",
                 "statusCode": null,
                 "terminal": "",
                 "time": "11:30"
@@ -2599,7 +2598,7 @@
                     "NGB"
                 ],
                 "stand": "R15",
-                "status": "Est at 11:30",
+                "status": "At gate 11:41",
                 "statusCode": null,
                 "terminal": "",
                 "time": "11:30"
@@ -2617,7 +2616,7 @@
                     "HGH"
                 ],
                 "stand": "W71",
-                "status": "Est at 11:09",
+                "status": "At gate 11:20",
                 "statusCode": null,
                 "terminal": "",
                 "time": "11:30"
@@ -2635,7 +2634,7 @@
                     "TSN"
                 ],
                 "stand": "S27",
-                "status": "Est at 11:15",
+                "status": "At gate 11:28",
                 "statusCode": null,
                 "terminal": "",
                 "time": "11:35"
@@ -2657,7 +2656,7 @@
                     "KHH"
                 ],
                 "stand": "R19",
-                "status": "Est at 11:32",
+                "status": "At gate 11:41",
                 "statusCode": null,
                 "terminal": "",
                 "time": "11:40"
@@ -2675,7 +2674,7 @@
                     "BKK"
                 ],
                 "stand": "N28",
-                "status": "Est at 11:36",
+                "status": "At gate 11:49",
                 "statusCode": null,
                 "terminal": "",
                 "time": "11:45"
@@ -2693,7 +2692,7 @@
                     "TSN"
                 ],
                 "stand": "S45",
-                "status": "Est at 11:24",
+                "status": "At gate 11:36",
                 "statusCode": null,
                 "terminal": "",
                 "time": "11:50"
@@ -2711,7 +2710,7 @@
                     "SHA"
                 ],
                 "stand": "N60",
-                "status": "Est at 11:36",
+                "status": "At gate 11:45",
                 "statusCode": null,
                 "terminal": "",
                 "time": "11:50"
@@ -2732,8 +2731,8 @@
                 "origin": [
                     "TPE"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "N26",
+                "status": "At gate 12:47",
                 "statusCode": null,
                 "terminal": "",
                 "time": "12:10"
@@ -2751,7 +2750,7 @@
                     "MNL"
                 ],
                 "stand": "N10",
-                "status": "Est at 11:41",
+                "status": "At gate 11:52",
                 "statusCode": null,
                 "terminal": "",
                 "time": "12:10"
@@ -2789,7 +2788,7 @@
                     "BKK"
                 ],
                 "stand": "N34",
-                "status": "Est at 11:39",
+                "status": "At gate 11:57",
                 "statusCode": null,
                 "terminal": "",
                 "time": "12:10"
@@ -2815,7 +2814,7 @@
                     "KIX"
                 ],
                 "stand": "S25",
-                "status": "Est at 11:59",
+                "status": "At gate 12:15",
                 "statusCode": null,
                 "terminal": "",
                 "time": "12:15"
@@ -2833,7 +2832,7 @@
                     "PVG"
                 ],
                 "stand": "S29",
-                "status": "Est at 12:21",
+                "status": "At gate 12:35",
                 "statusCode": null,
                 "terminal": "",
                 "time": "12:20"
@@ -2850,8 +2849,8 @@
                 "origin": [
                     "LHR"
                 ],
-                "stand": "",
-                "status": "Est at 12:08",
+                "stand": "S41",
+                "status": "At gate 12:28",
                 "statusCode": null,
                 "terminal": "",
                 "time": "12:20"
@@ -2869,7 +2868,7 @@
                     "PKX"
                 ],
                 "stand": "S11",
-                "status": "Est at 11:47",
+                "status": "At gate 12:09",
                 "statusCode": null,
                 "terminal": "",
                 "time": "12:20"
@@ -2886,8 +2885,8 @@
                 "origin": [
                     "PVG"
                 ],
-                "stand": "",
-                "status": "Est at 12:43",
+                "stand": "S49",
+                "status": "At gate 13:02",
                 "statusCode": null,
                 "terminal": "",
                 "time": "12:30"
@@ -2908,32 +2907,32 @@
                 "origin": [
                     "HND"
                 ],
-                "stand": "",
-                "status": "Est at 12:43",
+                "stand": "N32",
+                "status": "At gate 12:54",
                 "statusCode": null,
                 "terminal": "",
                 "time": "12:30"
             },
             {
-                "baggage": "3",
+                "baggage": "16",
                 "flight": [
                     {
                         "airline": "CDG",
                         "no": "SC 4789"
                     }
                 ],
-                "hall": "A",
+                "hall": "B",
                 "origin": [
                     "TNA"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "W63",
+                "status": "At gate 13:56",
                 "statusCode": null,
                 "terminal": "",
                 "time": "12:40"
             },
             {
-                "baggage": "16",
+                "baggage": "14",
                 "flight": [
                     {
                         "airline": "CPA",
@@ -2944,14 +2943,14 @@
                 "origin": [
                     "TPE"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "S1",
+                "status": "At gate 13:07",
                 "statusCode": null,
                 "terminal": "",
                 "time": "12:55"
             },
             {
-                "baggage": "14",
+                "baggage": "16",
                 "flight": [
                     {
                         "airline": "CPA",
@@ -2966,14 +2965,14 @@
                 "origin": [
                     "ICN"
                 ],
-                "stand": "",
-                "status": "Est at 12:45",
+                "stand": "N62",
+                "status": "At gate 12:57",
                 "statusCode": null,
                 "terminal": "",
                 "time": "13:00"
             },
             {
-                "baggage": "9",
+                "baggage": "3",
                 "flight": [
                     {
                         "airline": "CPA",
@@ -2984,8 +2983,8 @@
                 "origin": [
                     "KHH"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "N24",
+                "status": "At gate 12:57",
                 "statusCode": null,
                 "terminal": "",
                 "time": "13:00"
@@ -3002,14 +3001,14 @@
                 "origin": [
                     "PEK"
                 ],
-                "stand": "",
-                "status": "Est at 12:49",
+                "stand": "S31",
+                "status": "At gate 13:10",
                 "statusCode": null,
                 "terminal": "",
                 "time": "13:05"
             },
             {
-                "baggage": "15",
+                "baggage": "13",
                 "flight": [
                     {
                         "airline": "CPA",
@@ -3028,8 +3027,8 @@
                 "origin": [
                     "NRT"
                 ],
-                "stand": "",
-                "status": "Est at 12:53",
+                "stand": "S35",
+                "status": "At gate 13:12",
                 "statusCode": null,
                 "terminal": "",
                 "time": "13:15"
@@ -3046,8 +3045,8 @@
                 "origin": [
                     "KUL"
                 ],
-                "stand": "",
-                "status": "Est at 13:16",
+                "stand": "N30",
+                "status": "At gate 13:22",
                 "statusCode": null,
                 "terminal": "",
                 "time": "13:15"
@@ -3064,8 +3063,8 @@
                 "origin": [
                     "MNL"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "W48",
+                "status": "At gate 13:12",
                 "statusCode": null,
                 "terminal": "",
                 "time": "13:20"
@@ -3090,44 +3089,44 @@
                 "origin": [
                     "HND"
                 ],
-                "stand": "",
-                "status": "Est at 13:37",
+                "stand": "N6",
+                "status": "At gate 13:50",
                 "statusCode": null,
                 "terminal": "",
                 "time": "13:30"
             },
             {
-                "baggage": "",
+                "baggage": "13",
                 "flight": [
                     {
                         "airline": "BAW",
                         "no": "BA 031"
                     }
                 ],
-                "hall": "",
+                "hall": "B",
                 "origin": [
                     "LHR"
                 ],
-                "stand": "",
-                "status": "Est at 14:09",
+                "stand": "N26",
+                "status": "At gate 14:24",
                 "statusCode": null,
                 "terminal": "",
                 "time": "13:40"
             },
             {
-                "baggage": "9",
+                "baggage": "13",
                 "flight": [
                     {
                         "airline": "HGB",
                         "no": "HB 503"
                     }
                 ],
-                "hall": "A",
+                "hall": "B",
                 "origin": [
                     "TPE"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "R20",
+                "status": "At gate 13:40",
                 "statusCode": null,
                 "terminal": "",
                 "time": "13:40"
@@ -3144,8 +3143,8 @@
                 "origin": [
                     "LHR"
                 ],
-                "stand": "",
-                "status": "Est at 13:28",
+                "stand": "S27",
+                "status": "At gate 13:46",
                 "statusCode": null,
                 "terminal": "",
                 "time": "13:45"
@@ -3166,14 +3165,14 @@
                 "origin": [
                     "TPE"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "R16",
+                "status": "At gate 14:07",
                 "statusCode": null,
                 "terminal": "",
                 "time": "13:50"
             },
             {
-                "baggage": "",
+                "baggage": "12",
                 "flight": [
                     {
                         "airline": "CPA",
@@ -3188,18 +3187,18 @@
                         "no": "QR 5841"
                     }
                 ],
-                "hall": "",
+                "hall": "B",
                 "origin": [
                     "HND"
                 ],
-                "stand": "",
-                "status": "Est at 14:25",
+                "stand": "S31",
+                "status": "At gate 14:42",
                 "statusCode": null,
                 "terminal": "",
                 "time": "13:50"
             },
             {
-                "baggage": "13",
+                "baggage": "15",
                 "flight": [
                     {
                         "airline": "SIA",
@@ -3210,14 +3209,14 @@
                 "origin": [
                     "SIN"
                 ],
-                "stand": "",
-                "status": "Est at 13:12",
+                "stand": "S23",
+                "status": "At gate 13:27",
                 "statusCode": null,
                 "terminal": "",
                 "time": "13:55"
             },
             {
-                "baggage": "",
+                "baggage": "5",
                 "flight": [
                     {
                         "airline": "CPA",
@@ -3232,12 +3231,12 @@
                         "no": "AC 9794"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "HAN"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "R19",
+                "status": "At gate 13:45",
                 "statusCode": null,
                 "terminal": "",
                 "time": "14:00"
@@ -3258,14 +3257,14 @@
                 "origin": [
                     "JFK"
                 ],
-                "stand": "",
-                "status": "Est at 13:22",
+                "stand": "N8",
+                "status": "At gate 13:48",
                 "statusCode": null,
                 "terminal": "",
                 "time": "14:00"
             },
             {
-                "baggage": "",
+                "baggage": "3",
                 "flight": [
                     {
                         "airline": "CES",
@@ -3280,12 +3279,12 @@
                         "no": "HO 3503"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "PVG"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "N9",
+                "status": "At gate 14:12",
                 "statusCode": null,
                 "terminal": "",
                 "time": "14:05"
@@ -3310,26 +3309,26 @@
                 "origin": [
                     "SIN"
                 ],
-                "stand": "",
-                "status": "Est at 13:44",
+                "stand": "S33",
+                "status": "At gate 14:02",
                 "statusCode": null,
                 "terminal": "",
                 "time": "14:10"
             },
             {
-                "baggage": "",
+                "baggage": "16",
                 "flight": [
                     {
                         "airline": "CPA",
                         "no": "CX 363"
                     }
                 ],
-                "hall": "",
+                "hall": "B",
                 "origin": [
                     "PVG"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "W50",
+                "status": "At gate 14:32",
                 "statusCode": null,
                 "terminal": "",
                 "time": "14:15"
@@ -3354,32 +3353,32 @@
                 "origin": [
                     "CGK"
                 ],
-                "stand": "",
-                "status": "Est at 13:47",
+                "stand": "N68",
+                "status": "At gate 14:04",
                 "statusCode": null,
                 "terminal": "",
                 "time": "14:20"
             },
             {
-                "baggage": "",
+                "baggage": "6",
                 "flight": [
                     {
                         "airline": "CCA",
                         "no": "CA 419"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "CKG"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "S47",
+                "status": "At gate 13:39",
                 "statusCode": null,
                 "terminal": "",
                 "time": "14:25"
             },
             {
-                "baggage": "",
+                "baggage": "6",
                 "flight": [
                     {
                         "airline": "EVA",
@@ -3390,36 +3389,36 @@
                         "no": "HX 1825"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "TPE"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "N60",
+                "status": "At gate 14:22",
                 "statusCode": null,
                 "terminal": "",
                 "time": "14:25"
             },
             {
-                "baggage": "",
+                "baggage": "3",
                 "flight": [
                     {
                         "airline": "AIQ",
                         "no": "FD 500"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "DMK"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "N10",
+                "status": "At gate 14:42",
                 "statusCode": null,
                 "terminal": "",
                 "time": "14:35"
             },
             {
-                "baggage": "",
+                "baggage": "7",
                 "flight": [
                     {
                         "airline": "CHH",
@@ -3430,18 +3429,18 @@
                         "no": "HX 1201"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "HAK"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "S11",
+                "status": "At gate 14:20",
                 "statusCode": null,
                 "terminal": "",
                 "time": "14:40"
             },
             {
-                "baggage": "",
+                "baggage": "10",
                 "flight": [
                     {
                         "airline": "CPA",
@@ -3452,18 +3451,18 @@
                         "no": "CA 6536"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "WUH"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "S29",
+                "status": "At gate 14:34",
                 "statusCode": null,
                 "terminal": "",
                 "time": "14:40"
             },
             {
-                "baggage": "",
+                "baggage": "2",
                 "flight": [
                     {
                         "airline": "CRK",
@@ -3474,18 +3473,18 @@
                         "no": "HU 8358"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "PVG"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "W46",
+                "status": "At gate 14:52",
                 "statusCode": null,
                 "terminal": "",
                 "time": "14:45"
             },
             {
-                "baggage": "",
+                "baggage": "14",
                 "flight": [
                     {
                         "airline": "HKE",
@@ -3496,36 +3495,36 @@
                         "no": "CX 5705"
                     }
                 ],
-                "hall": "",
+                "hall": "B",
                 "origin": [
                     "BKK"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "R18",
+                "status": "At gate 15:02",
                 "statusCode": null,
                 "terminal": "",
                 "time": "14:50"
             },
             {
-                "baggage": "",
+                "baggage": "9",
                 "flight": [
                     {
                         "airline": "ETH",
                         "no": "ET 644"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "ADD"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "S45",
+                "status": "At gate 13:39",
                 "statusCode": null,
                 "terminal": "",
                 "time": "14:55"
             },
             {
-                "baggage": "",
+                "baggage": "12",
                 "flight": [
                     {
                         "airline": "CRK",
@@ -3536,18 +3535,18 @@
                         "no": "HU 8051"
                     }
                 ],
-                "hall": "",
+                "hall": "B",
                 "origin": [
                     "HAK"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "W126",
+                "status": "At gate 14:47",
                 "statusCode": null,
                 "terminal": "",
                 "time": "15:00"
             },
             {
-                "baggage": "",
+                "baggage": "5",
                 "flight": [
                     {
                         "airline": "CRK",
@@ -3558,18 +3557,18 @@
                         "no": "HU 8515"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "HGH"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "R13",
+                "status": "At gate 14:30",
                 "statusCode": null,
                 "terminal": "",
                 "time": "15:00"
             },
             {
-                "baggage": "",
+                "baggage": "9",
                 "flight": [
                     {
                         "airline": "CPA",
@@ -3592,18 +3591,18 @@
                         "no": "LX 9500"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "SYD"
                 ],
-                "stand": "",
-                "status": "Est at 14:42",
+                "stand": "S1",
+                "status": "At gate 15:01",
                 "statusCode": null,
                 "terminal": "",
                 "time": "15:00"
             },
             {
-                "baggage": "",
+                "baggage": "17",
                 "flight": [
                     {
                         "airline": "CPA",
@@ -3634,18 +3633,18 @@
                         "no": "AA 8908"
                     }
                 ],
-                "hall": "",
+                "hall": "B",
                 "origin": [
                     "BKK"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "W65",
+                "status": "At gate 14:43",
                 "statusCode": null,
                 "terminal": "",
                 "time": "15:00"
             },
             {
-                "baggage": "",
+                "baggage": "15",
                 "flight": [
                     {
                         "airline": "CPA",
@@ -3684,18 +3683,18 @@
                         "no": "AA 8909"
                     }
                 ],
-                "hall": "",
+                "hall": "B",
                 "origin": [
                     "SGN"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "N32",
+                "status": "At gate 14:53",
                 "statusCode": null,
                 "terminal": "",
                 "time": "15:05"
             },
             {
-                "baggage": "",
+                "baggage": "8",
                 "flight": [
                     {
                         "airline": "QTR",
@@ -3726,18 +3725,18 @@
                         "no": "JU 8319"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "DOH"
                 ],
-                "stand": "",
-                "status": "Est at 14:31",
+                "stand": "W42",
+                "status": "At gate 14:44",
                 "statusCode": null,
                 "terminal": "",
                 "time": "15:05"
             },
             {
-                "baggage": "",
+                "baggage": "15",
                 "flight": [
                     {
                         "airline": "CPA",
@@ -3752,18 +3751,18 @@
                         "no": "AC 9766"
                     }
                 ],
-                "hall": "",
+                "hall": "B",
                 "origin": [
                     "CEB"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "N34",
+                "status": "At gate 15:07",
                 "statusCode": null,
                 "terminal": "",
                 "time": "15:10"
             },
             {
-                "baggage": "",
+                "baggage": "6",
                 "flight": [
                     {
                         "airline": "HKE",
@@ -3774,18 +3773,18 @@
                         "no": "CX 5173"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "RMQ"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "N30",
+                "status": "At gate 15:10",
                 "statusCode": null,
                 "terminal": "",
                 "time": "15:10"
             },
             {
-                "baggage": "",
+                "baggage": "7",
                 "flight": [
                     {
                         "airline": "CPA",
@@ -3796,54 +3795,54 @@
                         "no": "AC 9786"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "MNL"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "S2",
+                "status": "At gate 15:08",
                 "statusCode": null,
                 "terminal": "",
                 "time": "15:15"
             },
             {
-                "baggage": "",
+                "baggage": "5",
                 "flight": [
                     {
                         "airline": "CPA",
                         "no": "CX 495"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "TPE"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "S3",
+                "status": "At gate 15:19",
                 "statusCode": null,
                 "terminal": "",
                 "time": "15:20"
             },
             {
-                "baggage": "",
+                "baggage": "14",
                 "flight": [
                     {
                         "airline": "CPA",
                         "no": "CX 256"
                     }
                 ],
-                "hall": "",
+                "hall": "B",
                 "origin": [
                     "LHR"
                 ],
-                "stand": "",
-                "status": "Est at 15:19",
+                "stand": "N6",
+                "status": "At gate 15:38",
                 "statusCode": null,
                 "terminal": "",
                 "time": "15:30"
             },
             {
-                "baggage": "",
+                "baggage": "16",
                 "flight": [
                     {
                         "airline": "HKE",
@@ -3854,18 +3853,18 @@
                         "no": "CX 5601"
                     }
                 ],
-                "hall": "",
+                "hall": "B",
                 "origin": [
                     "FUK"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "R15",
+                "status": "At gate 15:32",
                 "statusCode": null,
                 "terminal": "",
                 "time": "15:30"
             },
             {
-                "baggage": "",
+                "baggage": "8",
                 "flight": [
                     {
                         "airline": "HKE",
@@ -3876,90 +3875,90 @@
                         "no": "CX 5619"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "ICN"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "R19",
+                "status": "At gate 15:29",
                 "statusCode": null,
                 "terminal": "",
                 "time": "15:30"
             },
             {
-                "baggage": "",
+                "baggage": "13",
                 "flight": [
                     {
                         "airline": "HKE",
                         "no": "UO 111"
                     }
                 ],
-                "hall": "",
+                "hall": "B",
                 "origin": [
                     "TPE"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "W123R",
+                "status": "At gate 15:23",
                 "statusCode": null,
                 "terminal": "",
                 "time": "15:40"
             },
             {
-                "baggage": "",
+                "baggage": "12",
                 "flight": [
                     {
                         "airline": "CAL",
                         "no": "CI 931"
                     }
                 ],
-                "hall": "",
+                "hall": "B",
                 "origin": [
                     "KHH"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "N60",
+                "status": "At gate 15:41",
                 "statusCode": null,
                 "terminal": "",
                 "time": "15:45"
             },
             {
-                "baggage": "",
+                "baggage": "2",
                 "flight": [
                     {
                         "airline": "CSZ",
                         "no": "ZH 9095"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "WUX"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "W63",
+                "status": "At gate 15:12",
                 "statusCode": null,
                 "terminal": "",
                 "time": "15:50"
             },
             {
-                "baggage": "",
+                "baggage": "17",
                 "flight": [
                     {
                         "airline": "CCA",
                         "no": "CA 427"
                     }
                 ],
-                "hall": "",
+                "hall": "B",
                 "origin": [
                     "TFU"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "N28",
+                "status": "At gate 15:40",
                 "statusCode": null,
                 "terminal": "",
                 "time": "15:55"
             },
             {
-                "baggage": "",
+                "baggage": "3",
                 "flight": [
                     {
                         "airline": "HKE",
@@ -3970,54 +3969,54 @@
                         "no": "CX 5761"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "HKT"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "R16",
+                "status": "At gate 15:48",
                 "statusCode": null,
                 "terminal": "",
                 "time": "15:55"
             },
             {
-                "baggage": "",
+                "baggage": "2",
                 "flight": [
                     {
                         "airline": "CDC",
                         "no": "GJ 8053"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "HGH"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "S103",
+                "status": "At gate 15:55",
                 "statusCode": null,
                 "terminal": "",
                 "time": "15:55"
             },
             {
-                "baggage": "",
+                "baggage": "2",
                 "flight": [
                     {
                         "airline": "CPA",
                         "no": "CX 349"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "SHA"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "W48",
+                "status": "At gate 16:31",
                 "statusCode": null,
                 "terminal": "",
                 "time": "16:00"
             },
             {
-                "baggage": "",
+                "baggage": "7",
                 "flight": [
                     {
                         "airline": "HKE",
@@ -4028,108 +4027,108 @@
                         "no": "CX 5851"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "KIX"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "R13",
+                "status": "At gate 16:04",
                 "statusCode": null,
                 "terminal": "",
                 "time": "16:00"
             },
             {
-                "baggage": "",
+                "baggage": "6",
                 "flight": [
                     {
                         "airline": "CES",
                         "no": "MU 595"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "HGH"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "S47",
+                "status": "At gate 15:58",
                 "statusCode": null,
                 "terminal": "",
                 "time": "16:00"
             },
             {
-                "baggage": "",
+                "baggage": "13",
                 "flight": [
                     {
                         "airline": "ACA",
                         "no": "AC 007"
                     }
                 ],
-                "hall": "",
+                "hall": "B",
                 "origin": [
                     "YVR"
                 ],
-                "stand": "",
-                "status": "Est at 16:44",
+                "stand": "W40",
+                "status": "At gate 17:00",
                 "statusCode": null,
                 "terminal": "",
                 "time": "16:05"
             },
             {
-                "baggage": "",
+                "baggage": "16",
                 "flight": [
                     {
                         "airline": "CPA",
                         "no": "CX 367"
                     }
                 ],
-                "hall": "",
+                "hall": "B",
                 "origin": [
                     "PVG"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "W69",
+                "status": "At gate 17:00",
                 "statusCode": null,
                 "terminal": "",
                 "time": "16:15"
             },
             {
-                "baggage": "",
+                "baggage": "13",
                 "flight": [
                     {
                         "airline": "CXA",
                         "no": "MF 8713"
                     }
                 ],
-                "hall": "",
+                "hall": "B",
                 "origin": [
                     "HGH"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "S102",
+                "status": "At gate 16:08",
                 "statusCode": null,
                 "terminal": "",
                 "time": "16:15"
             },
             {
-                "baggage": "",
+                "baggage": "13",
                 "flight": [
                     {
                         "airline": "CCA",
                         "no": "CA 109"
                     }
                 ],
-                "hall": "",
+                "hall": "B",
                 "origin": [
                     "PEK"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "S47",
+                "status": "At gate 17:48",
                 "statusCode": null,
                 "terminal": "",
                 "time": "16:25"
             },
             {
-                "baggage": "",
+                "baggage": "14",
                 "flight": [
                     {
                         "airline": "HKE",
@@ -4140,36 +4139,36 @@
                         "no": "CX 5133"
                     }
                 ],
-                "hall": "",
+                "hall": "B",
                 "origin": [
                     "KHH"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "S111",
+                "status": "At gate 16:25",
                 "statusCode": null,
                 "terminal": "",
                 "time": "16:25"
             },
             {
-                "baggage": "",
+                "baggage": "15",
                 "flight": [
                     {
                         "airline": "CAL",
                         "no": "CI 915"
                     }
                 ],
-                "hall": "",
+                "hall": "B",
                 "origin": [
                     "TPE"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "W44",
+                "status": "At gate 16:24",
                 "statusCode": null,
                 "terminal": "",
                 "time": "16:30"
             },
             {
-                "baggage": "",
+                "baggage": "9",
                 "flight": [
                     {
                         "airline": "CPA",
@@ -4196,72 +4195,72 @@
                         "no": "AA 8950"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "BKK"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "S43",
+                "status": "At gate 16:21",
                 "statusCode": null,
                 "terminal": "",
                 "time": "16:30"
             },
             {
-                "baggage": "",
+                "baggage": "8",
                 "flight": [
                     {
                         "airline": "CES",
                         "no": "MU 2093"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "PKX"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "N145",
+                "status": "At gate 16:33",
                 "statusCode": null,
                 "terminal": "",
                 "time": "16:35"
             },
             {
-                "baggage": "",
+                "baggage": "7",
                 "flight": [
                     {
                         "airline": "BAW",
                         "no": "BA 027"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "LHR"
                 ],
-                "stand": "",
-                "status": "Est at 16:58",
+                "stand": "N24",
+                "status": "At gate 17:08",
                 "statusCode": null,
                 "terminal": "",
                 "time": "16:35"
             },
             {
-                "baggage": "",
+                "baggage": "5",
                 "flight": [
                     {
                         "airline": "HGB",
                         "no": "HB 521"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "ICN"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "S109",
+                "status": "At gate 16:49",
                 "statusCode": null,
                 "terminal": "",
                 "time": "16:40"
             },
             {
-                "baggage": "",
+                "baggage": "17",
                 "flight": [
                     {
                         "airline": "CPA",
@@ -4272,54 +4271,54 @@
                         "no": "QR 5837"
                     }
                 ],
-                "hall": "",
+                "hall": "B",
                 "origin": [
                     "HKT"
                 ],
-                "stand": "",
-                "status": "Est at 16:54",
+                "stand": "R20",
+                "status": "At gate 17:12",
                 "statusCode": null,
                 "terminal": "",
                 "time": "16:45"
             },
             {
-                "baggage": "",
+                "baggage": "6",
                 "flight": [
                     {
                         "airline": "SWR",
                         "no": "LX 138"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "ZRH"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "N9",
+                "status": "At gate 16:35",
                 "statusCode": null,
                 "terminal": "",
                 "time": "16:45"
             },
             {
-                "baggage": "",
+                "baggage": "17",
                 "flight": [
                     {
                         "airline": "CQH",
                         "no": "9C 8921"
                     }
                 ],
-                "hall": "",
+                "hall": "B",
                 "origin": [
                     "PVG"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "S108",
+                "status": "At gate 16:40",
                 "statusCode": null,
                 "terminal": "",
                 "time": "16:50"
             },
             {
-                "baggage": "",
+                "baggage": "14",
                 "flight": [
                     {
                         "airline": "QFA",
@@ -4346,18 +4345,18 @@
                         "no": "LY 8792"
                     }
                 ],
-                "hall": "",
+                "hall": "B",
                 "origin": [
                     "SYD"
                 ],
-                "stand": "",
-                "status": "Est at 17:03",
+                "stand": "N5",
+                "status": "At gate 17:19",
                 "statusCode": null,
                 "terminal": "",
                 "time": "16:50"
             },
             {
-                "baggage": "",
+                "baggage": "12",
                 "flight": [
                     {
                         "airline": "CRK",
@@ -4368,18 +4367,18 @@
                         "no": "OZ 9295"
                     }
                 ],
-                "hall": "",
+                "hall": "B",
                 "origin": [
                     "ICN"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "R17",
+                "status": "At gate 16:57",
                 "statusCode": null,
                 "terminal": "",
                 "time": "16:55"
             },
             {
-                "baggage": "",
+                "baggage": "9",
                 "flight": [
                     {
                         "airline": "CPA",
@@ -4390,36 +4389,36 @@
                         "no": "CA 6521"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "TFU"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "S1",
+                "status": "At gate 17:20",
                 "statusCode": null,
                 "terminal": "",
                 "time": "16:55"
             },
             {
-                "baggage": "",
+                "baggage": "15",
                 "flight": [
                     {
                         "airline": "CPA",
                         "no": "CX 357"
                     }
                 ],
-                "hall": "",
+                "hall": "B",
                 "origin": [
                     "NKG"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "N30",
+                "status": "At gate 17:03",
                 "statusCode": null,
                 "terminal": "",
                 "time": "17:00"
             },
             {
-                "baggage": "",
+                "baggage": "5",
                 "flight": [
                     {
                         "airline": "THY",
@@ -4434,18 +4433,18 @@
                         "no": "NZ 4850"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "IST"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "S45",
+                "status": "At gate 17:26",
                 "statusCode": null,
                 "terminal": "",
                 "time": "17:05"
             },
             {
-                "baggage": "",
+                "baggage": "6",
                 "flight": [
                     {
                         "airline": "HKE",
@@ -4456,18 +4455,18 @@
                         "no": "CX 5675"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "PUS"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "W122R",
+                "status": "At gate 17:30",
                 "statusCode": null,
                 "terminal": "",
                 "time": "17:10"
             },
             {
-                "baggage": "",
+                "baggage": "8",
                 "flight": [
                     {
                         "airline": "CPA",
@@ -4486,36 +4485,36 @@
                         "no": "AA 8897"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "SIN"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "W63",
+                "status": "At gate 17:14",
                 "statusCode": null,
                 "terminal": "",
                 "time": "17:15"
             },
             {
-                "baggage": "",
+                "baggage": "16",
                 "flight": [
                     {
                         "airline": "APG",
                         "no": "Z2 1264"
                     }
                 ],
-                "hall": "",
+                "hall": "B",
                 "origin": [
                     "MNL"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "S35",
+                "status": "At gate 17:26",
                 "statusCode": null,
                 "terminal": "",
                 "time": "17:15"
             },
             {
-                "baggage": "",
+                "baggage": "9",
                 "flight": [
                     {
                         "airline": "CJX",
@@ -4526,18 +4525,18 @@
                         "no": "MF 9421"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "KHN"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "S105",
+                "status": "At gate 17:43",
                 "statusCode": null,
                 "terminal": "",
                 "time": "17:20"
             },
             {
-                "baggage": "",
+                "baggage": "10",
                 "flight": [
                     {
                         "airline": "CPA",
@@ -4548,18 +4547,18 @@
                         "no": "MH 9196"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "KUL"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "W50",
+                "status": "At gate 17:12",
                 "statusCode": null,
                 "terminal": "",
                 "time": "17:20"
             },
             {
-                "baggage": "",
+                "baggage": "3",
                 "flight": [
                     {
                         "airline": "HKE",
@@ -4570,18 +4569,18 @@
                         "no": "CX 5113"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "TPE"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "R18",
+                "status": "At gate 17:19",
                 "statusCode": null,
                 "terminal": "",
                 "time": "17:20"
             },
             {
-                "baggage": "",
+                "baggage": "3",
                 "flight": [
                     {
                         "airline": "CPA",
@@ -4592,18 +4591,18 @@
                         "no": "CA 6511"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "PEK"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "S2",
+                "status": "At gate 17:04",
                 "statusCode": null,
                 "terminal": "",
                 "time": "17:35"
             },
             {
-                "baggage": "",
+                "baggage": "15",
                 "flight": [
                     {
                         "airline": "HKE",
@@ -4614,108 +4613,108 @@
                         "no": "CX 5687"
                     }
                 ],
-                "hall": "",
+                "hall": "B",
                 "origin": [
                     "KIX"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "R19",
+                "status": "At gate 17:41",
                 "statusCode": null,
                 "terminal": "",
                 "time": "17:35"
             },
             {
-                "baggage": "",
+                "baggage": "2",
                 "flight": [
                     {
                         "airline": "CSC",
                         "no": "3U 3959"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "TFU"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "S27",
+                "status": "At gate 17:24",
                 "statusCode": null,
                 "terminal": "",
                 "time": "17:40"
             },
             {
-                "baggage": "",
+                "baggage": "16",
                 "flight": [
                     {
                         "airline": "FIN",
                         "no": "AY 099"
                     }
                 ],
-                "hall": "",
+                "hall": "B",
                 "origin": [
                     "HEL"
                 ],
-                "stand": "",
-                "status": "Est at 18:05",
+                "stand": "N6",
+                "status": "At gate 18:25",
                 "statusCode": null,
                 "terminal": "",
                 "time": "17:45"
             },
             {
-                "baggage": "",
+                "baggage": "8",
                 "flight": [
                     {
                         "airline": "CRK",
                         "no": "HX 659"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "OKA"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "S104",
+                "status": "At gate 17:56",
                 "statusCode": null,
                 "terminal": "",
                 "time": "17:45"
             },
             {
-                "baggage": "",
+                "baggage": "12",
                 "flight": [
                     {
                         "airline": "RNA",
                         "no": "RA 409"
                     }
                 ],
-                "hall": "",
+                "hall": "B",
                 "origin": [
                     "KTM"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "N10",
+                "status": "At gate 17:28",
                 "statusCode": null,
                 "terminal": "",
                 "time": "17:45"
             },
             {
-                "baggage": "",
+                "baggage": "2",
                 "flight": [
                     {
                         "airline": "CXA",
                         "no": "MF 8651"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "FOC"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "W44",
+                "status": "At gate 18:14",
                 "statusCode": null,
                 "terminal": "",
                 "time": "17:50"
             },
             {
-                "baggage": "",
+                "baggage": "7",
                 "flight": [
                     {
                         "airline": "CRK",
@@ -4726,18 +4725,18 @@
                         "no": "HU 8083"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "PKX"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "N68",
+                "status": "At gate 17:35",
                 "statusCode": null,
                 "terminal": "",
                 "time": "18:00"
             },
             {
-                "baggage": "",
+                "baggage": "17",
                 "flight": [
                     {
                         "airline": "CPA",
@@ -4752,73 +4751,73 @@
                         "no": "QF 8224"
                     }
                 ],
-                "hall": "",
+                "hall": "B",
                 "origin": [
                     "ICN"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "N7",
+                "status": "At gate 17:57",
                 "statusCode": null,
                 "terminal": "",
                 "time": "18:05"
             },
             {
-                "baggage": "",
+                "baggage": "6",
                 "flight": [
                     {
                         "airline": "UAE",
                         "no": "EK 384"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "DXB",
                     "BKK"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "N60",
+                "status": "At gate 18:14",
                 "statusCode": null,
                 "terminal": "",
                 "time": "18:05"
             },
             {
-                "baggage": "",
+                "baggage": "3",
                 "flight": [
                     {
                         "airline": "CEB",
                         "no": "5J 112"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "MNL"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "S49",
+                "status": "At gate 18:14",
                 "statusCode": null,
                 "terminal": "",
                 "time": "18:10"
             },
             {
-                "baggage": "",
+                "baggage": "9",
                 "flight": [
                     {
                         "airline": "HKE",
                         "no": "UO 2643"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "TAK"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "R17",
+                "status": "At gate 18:36",
                 "statusCode": null,
                 "terminal": "",
                 "time": "18:25"
             },
             {
-                "baggage": "",
+                "baggage": "7",
                 "flight": [
                     {
                         "airline": "EVA",
@@ -4829,108 +4828,108 @@
                         "no": "HX 1831"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "TPE"
                 ],
-                "stand": "",
-                "status": "Est at 18:25",
+                "stand": "N28",
+                "status": "At gate 18:42",
                 "statusCode": null,
                 "terminal": "",
                 "time": "18:30"
             },
             {
-                "baggage": "",
+                "baggage": "12",
                 "flight": [
                     {
                         "airline": "THA",
                         "no": "TG 638"
                     }
                 ],
-                "hall": "",
+                "hall": "B",
                 "origin": [
                     "BKK"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "W46",
+                "status": "At gate 19:05",
                 "statusCode": null,
                 "terminal": "",
                 "time": "18:30"
             },
             {
-                "baggage": "",
+                "baggage": "10",
                 "flight": [
                     {
                         "airline": "CXA",
                         "no": "MF 8685"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "JJN"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "S11",
+                "status": "At gate 18:22",
                 "statusCode": null,
                 "terminal": "",
                 "time": "18:30"
             },
             {
-                "baggage": "",
+                "baggage": "16",
                 "flight": [
                     {
                         "airline": "UAL",
                         "no": "UA 869"
                     }
                 ],
-                "hall": "",
+                "hall": "B",
                 "origin": [
                     "SFO"
                 ],
-                "stand": "",
-                "status": "Est at 19:59",
+                "stand": "W44",
+                "status": "Landed 19:41",
                 "statusCode": null,
                 "terminal": "",
                 "time": "18:45"
             },
             {
-                "baggage": "",
+                "baggage": "14",
                 "flight": [
                     {
                         "airline": "VJC",
                         "no": "VJ 876"
                     }
                 ],
-                "hall": "",
+                "hall": "B",
                 "origin": [
                     "SGN"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "W40",
+                "status": "At gate 18:51",
                 "statusCode": null,
                 "terminal": "",
                 "time": "18:50"
             },
             {
-                "baggage": "",
+                "baggage": "17",
                 "flight": [
                     {
                         "airline": "CAL",
                         "no": "CI 919"
                     }
                 ],
-                "hall": "",
+                "hall": "B",
                 "origin": [
                     "TPE"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "S35",
+                "status": "At gate 18:40",
                 "statusCode": null,
                 "terminal": "",
                 "time": "18:55"
             },
             {
-                "baggage": "",
+                "baggage": "15",
                 "flight": [
                     {
                         "airline": "CPA",
@@ -4941,18 +4940,18 @@
                         "no": "JL 7025"
                     }
                 ],
-                "hall": "",
+                "hall": "B",
                 "origin": [
                     "NRT"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "N66",
+                "status": "At gate 18:56",
                 "statusCode": null,
                 "terminal": "",
                 "time": "18:55"
             },
             {
-                "baggage": "",
+                "baggage": "13",
                 "flight": [
                     {
                         "airline": "HKE",
@@ -4963,72 +4962,72 @@
                         "no": "CX 5621"
                     }
                 ],
-                "hall": "",
+                "hall": "B",
                 "origin": [
                     "FUK"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "W122L",
+                "status": "At gate 19:02",
                 "statusCode": null,
                 "terminal": "",
                 "time": "19:00"
             },
             {
-                "baggage": "",
+                "baggage": "9",
                 "flight": [
                     {
                         "airline": "CPA",
                         "no": "CX 947"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "XIY"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "N10",
+                "status": "Landed 19:37",
                 "statusCode": null,
                 "terminal": "",
                 "time": "19:05"
             },
             {
-                "baggage": "",
+                "baggage": "8",
                 "flight": [
                     {
                         "airline": "CES",
                         "no": "MU 505"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "PVG"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "S23",
+                "status": "At gate 18:48",
                 "statusCode": null,
                 "terminal": "",
                 "time": "19:05"
             },
             {
-                "baggage": "",
+                "baggage": "3",
                 "flight": [
                     {
                         "airline": "AIQ",
                         "no": "FD 524"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "HKT"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "N34",
+                "status": "At gate 18:54",
                 "statusCode": null,
                 "terminal": "",
                 "time": "19:05"
             },
             {
-                "baggage": "",
+                "baggage": "2",
                 "flight": [
                     {
                         "airline": "CPA",
@@ -5039,36 +5038,36 @@
                         "no": "JL 7057"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "FUK"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "S25",
+                "status": "At gate 19:17",
                 "statusCode": null,
                 "terminal": "",
                 "time": "19:15"
             },
             {
-                "baggage": "",
+                "baggage": "7",
                 "flight": [
                     {
                         "airline": "CRK",
                         "no": "HX 776"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "BKK"
                 ],
                 "stand": "",
-                "status": "",
+                "status": "Est at 22:00",
                 "statusCode": null,
                 "terminal": "",
                 "time": "19:20"
             },
             {
-                "baggage": "",
+                "baggage": "5",
                 "flight": [
                     {
                         "airline": "CPA",
@@ -5079,18 +5078,18 @@
                         "no": "CA 6517"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "CKG"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "N68",
+                "status": "At gate 19:17",
                 "statusCode": null,
                 "terminal": "",
                 "time": "19:25"
             },
             {
-                "baggage": "",
+                "baggage": "8",
                 "flight": [
                     {
                         "airline": "HKE",
@@ -5101,18 +5100,18 @@
                         "no": "CX 5849"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "NRT"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "R15",
+                "status": "At gate 19:40",
                 "statusCode": null,
                 "terminal": "",
                 "time": "19:40"
             },
             {
-                "baggage": "",
+                "baggage": "15",
                 "flight": [
                     {
                         "airline": "CRK",
@@ -5123,18 +5122,18 @@
                         "no": "HU 8360"
                     }
                 ],
-                "hall": "",
+                "hall": "B",
                 "origin": [
                     "PVG"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "S103",
+                "status": "Landed 19:29",
                 "statusCode": null,
                 "terminal": "",
                 "time": "19:45"
             },
             {
-                "baggage": "",
+                "baggage": "10",
                 "flight": [
                     {
                         "airline": "HKE",
@@ -5145,36 +5144,36 @@
                         "no": "CX 5115"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "TPE"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "W121L",
+                "status": "At gate 19:23",
                 "statusCode": null,
                 "terminal": "",
                 "time": "19:45"
             },
             {
-                "baggage": "",
+                "baggage": "13",
                 "flight": [
                     {
                         "airline": "HGB",
                         "no": "HB 531"
                     }
                 ],
-                "hall": "",
+                "hall": "B",
                 "origin": [
                     "NRT"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "N145",
+                "status": "Est at 19:54",
                 "statusCode": null,
                 "terminal": "",
                 "time": "19:50"
             },
             {
-                "baggage": "",
+                "baggage": "7",
                 "flight": [
                     {
                         "airline": "CRK",
@@ -5185,18 +5184,18 @@
                         "no": "AI 7161"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "NRT"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "S47",
+                "status": "Landed 19:38",
                 "statusCode": null,
                 "terminal": "",
                 "time": "20:00"
             },
             {
-                "baggage": "",
+                "baggage": "14",
                 "flight": [
                     {
                         "airline": "CPA",
@@ -5211,18 +5210,18 @@
                         "no": "QR 5843"
                     }
                 ],
-                "hall": "",
+                "hall": "B",
                 "origin": [
                     "HND"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "S27",
+                "status": "Est at 19:59",
                 "statusCode": null,
                 "terminal": "",
                 "time": "20:00"
             },
             {
-                "baggage": "",
+                "baggage": "10",
                 "flight": [
                     {
                         "airline": "HKE",
@@ -5233,18 +5232,18 @@
                         "no": "CX 5701"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "BKK"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "W125",
+                "status": "Est at 20:11",
                 "statusCode": null,
                 "terminal": "",
                 "time": "20:00"
             },
             {
-                "baggage": "",
+                "baggage": "17",
                 "flight": [
                     {
                         "airline": "HKE",
@@ -5255,36 +5254,36 @@
                         "no": "CX 5899"
                     }
                 ],
-                "hall": "",
+                "hall": "B",
                 "origin": [
                     "KIX"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "S102",
+                "status": "Est at 20:04",
                 "statusCode": null,
                 "terminal": "",
                 "time": "20:10"
             },
             {
-                "baggage": "",
+                "baggage": "3",
                 "flight": [
                     {
                         "airline": "CPA",
                         "no": "CX 918"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "MNL"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "S43",
+                "status": "Est at 19:49",
                 "statusCode": null,
                 "terminal": "",
                 "time": "20:15"
             },
             {
-                "baggage": "",
+                "baggage": "2",
                 "flight": [
                     {
                         "airline": "CPA",
@@ -5299,18 +5298,18 @@
                         "no": "BA 4574"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "CGK"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "W61",
+                "status": "Est at 20:02",
                 "statusCode": null,
                 "terminal": "",
                 "time": "20:25"
             },
             {
-                "baggage": "",
+                "baggage": "5",
                 "flight": [
                     {
                         "airline": "CRK",
@@ -5321,36 +5320,36 @@
                         "no": "HU 8210"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "NKG"
                 ],
                 "stand": "",
-                "status": "Est at 21:20",
+                "status": "Est at 21:37",
                 "statusCode": null,
                 "terminal": "",
                 "time": "20:30"
             },
             {
-                "baggage": "",
+                "baggage": "15",
                 "flight": [
                     {
                         "airline": "CPA",
                         "no": "CX 369"
                     }
                 ],
-                "hall": "",
+                "hall": "B",
                 "origin": [
                     "PVG"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "W71",
+                "status": "Est at 20:29",
                 "statusCode": null,
                 "terminal": "",
                 "time": "20:30"
             },
             {
-                "baggage": "",
+                "baggage": "6",
                 "flight": [
                     {
                         "airline": "CPA",
@@ -5361,90 +5360,90 @@
                         "no": "CA 6501"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "PEK"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "S11",
+                "status": "Est at 20:14",
                 "statusCode": null,
                 "terminal": "",
                 "time": "20:35"
             },
             {
-                "baggage": "",
+                "baggage": "8",
                 "flight": [
                     {
                         "airline": "AXM",
                         "no": "AK 130"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "KUL"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "S29",
+                "status": "Est at 20:32",
                 "statusCode": null,
                 "terminal": "",
                 "time": "20:40"
             },
             {
-                "baggage": "",
+                "baggage": "9",
                 "flight": [
                     {
                         "airline": "CPA",
                         "no": "CX 473"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "TPE"
                 ],
                 "stand": "",
-                "status": "",
+                "status": "Est at 20:22",
                 "statusCode": null,
                 "terminal": "",
                 "time": "20:45"
             },
             {
-                "baggage": "",
+                "baggage": "10",
                 "flight": [
                     {
                         "airline": "CPA",
                         "no": "CX 459"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "KHH"
                 ],
                 "stand": "",
-                "status": "",
+                "status": "Est at 20:35",
                 "statusCode": null,
                 "terminal": "",
                 "time": "20:50"
             },
             {
-                "baggage": "",
+                "baggage": "7",
                 "flight": [
                     {
                         "airline": "CEB",
                         "no": "5J 114"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "MNL"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "N34",
+                "status": "Est at 20:44",
                 "statusCode": null,
                 "terminal": "",
                 "time": "20:50"
             },
             {
-                "baggage": "",
+                "baggage": "13",
                 "flight": [
                     {
                         "airline": "CRK",
@@ -5459,18 +5458,18 @@
                         "no": "TK 8875"
                     }
                 ],
-                "hall": "",
+                "hall": "B",
                 "origin": [
                     "KIX"
                 ],
                 "stand": "",
-                "status": "",
+                "status": "Est at 20:34",
                 "statusCode": null,
                 "terminal": "",
                 "time": "20:55"
             },
             {
-                "baggage": "",
+                "baggage": "12",
                 "flight": [
                     {
                         "airline": "CPA",
@@ -5485,18 +5484,18 @@
                         "no": "QR 5815"
                     }
                 ],
-                "hall": "",
+                "hall": "B",
                 "origin": [
                     "KIX"
                 ],
                 "stand": "",
-                "status": "",
+                "status": "Est at 20:37",
                 "statusCode": null,
                 "terminal": "",
                 "time": "20:55"
             },
             {
-                "baggage": "",
+                "baggage": "5",
                 "flight": [
                     {
                         "airline": "CPA",
@@ -5511,18 +5510,18 @@
                         "no": "JL 7061"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "CTS"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "N64",
+                "status": "Est at 20:36",
                 "statusCode": null,
                 "terminal": "",
                 "time": "21:00"
             },
             {
-                "baggage": "",
+                "baggage": "14",
                 "flight": [
                     {
                         "airline": "HKE",
@@ -5533,18 +5532,18 @@
                         "no": "CX 5691"
                     }
                 ],
-                "hall": "",
+                "hall": "B",
                 "origin": [
                     "NGO"
                 ],
                 "stand": "",
-                "status": "",
+                "status": "Est at 20:55",
                 "statusCode": null,
                 "terminal": "",
                 "time": "21:00"
             },
             {
-                "baggage": "",
+                "baggage": "8",
                 "flight": [
                     {
                         "airline": "HKE",
@@ -5555,36 +5554,36 @@
                         "no": "CX 5871"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "NRT"
                 ],
                 "stand": "",
-                "status": "",
+                "status": "Est at 21:08",
                 "statusCode": null,
                 "terminal": "",
                 "time": "21:00"
             },
             {
-                "baggage": "",
+                "baggage": "2",
                 "flight": [
                     {
                         "airline": "CCA",
                         "no": "CA 117"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "PEK"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "W124",
+                "status": "Est at 20:43",
                 "statusCode": null,
                 "terminal": "",
                 "time": "21:05"
             },
             {
-                "baggage": "",
+                "baggage": "17",
                 "flight": [
                     {
                         "airline": "CPA",
@@ -5603,18 +5602,18 @@
                         "no": "AA 8914"
                     }
                 ],
-                "hall": "",
+                "hall": "B",
                 "origin": [
                     "DPS"
                 ],
                 "stand": "",
-                "status": "",
+                "status": "Est at 20:56",
                 "statusCode": null,
                 "terminal": "",
                 "time": "21:05"
             },
             {
-                "baggage": "",
+                "baggage": "16",
                 "flight": [
                     {
                         "airline": "HKE",
@@ -5625,18 +5624,18 @@
                         "no": "CX 5559"
                     }
                 ],
-                "hall": "",
+                "hall": "B",
                 "origin": [
                     "DAD"
                 ],
                 "stand": "",
-                "status": "",
+                "status": "Est at 20:41",
                 "statusCode": null,
                 "terminal": "",
                 "time": "21:10"
             },
             {
-                "baggage": "",
+                "baggage": "6",
                 "flight": [
                     {
                         "airline": "CPA",
@@ -5655,18 +5654,18 @@
                         "no": "AA 8883"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "NRT"
                 ],
                 "stand": "",
-                "status": "",
+                "status": "Est at 21:04",
                 "statusCode": null,
                 "terminal": "",
                 "time": "21:20"
             },
             {
-                "baggage": "",
+                "baggage": "9",
                 "flight": [
                     {
                         "airline": "CPA",
@@ -5685,18 +5684,18 @@
                         "no": "BA 4130"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "SYD"
                 ],
                 "stand": "",
-                "status": "",
+                "status": "Est at 21:10",
                 "statusCode": null,
                 "terminal": "",
                 "time": "21:30"
             },
             {
-                "baggage": "",
+                "baggage": "3",
                 "flight": [
                     {
                         "airline": "CPA",
@@ -5711,43 +5710,43 @@
                         "no": "PG 4557"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "BKK"
                 ],
-                "stand": "",
-                "status": "",
+                "stand": "N5",
+                "status": "Est at 20:45",
                 "statusCode": null,
                 "terminal": "",
                 "time": "21:30"
             },
             {
-                "baggage": "",
+                "baggage": "7",
                 "flight": [
                     {
                         "airline": "PAL",
                         "no": "PR 310"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "MNL"
                 ],
                 "stand": "",
-                "status": "",
+                "status": "Est at 21:21",
                 "statusCode": null,
                 "terminal": "",
                 "time": "21:35"
             },
             {
-                "baggage": "",
+                "baggage": "16",
                 "flight": [
                     {
                         "airline": "CAL",
                         "no": "CI 921"
                     }
                 ],
-                "hall": "",
+                "hall": "B",
                 "origin": [
                     "TPE"
                 ],
@@ -5758,7 +5757,7 @@
                 "time": "21:45"
             },
             {
-                "baggage": "",
+                "baggage": "13",
                 "flight": [
                     {
                         "airline": "CPA",
@@ -5777,18 +5776,18 @@
                         "no": "BA 4566"
                     }
                 ],
-                "hall": "",
+                "hall": "B",
                 "origin": [
                     "MEL"
                 ],
                 "stand": "",
-                "status": "",
+                "status": "Est at 21:14",
                 "statusCode": null,
                 "terminal": "",
                 "time": "21:45"
             },
             {
-                "baggage": "",
+                "baggage": "17",
                 "flight": [
                     {
                         "airline": "CPA",
@@ -5803,25 +5802,25 @@
                         "no": "JL 7067"
                     }
                 ],
-                "hall": "",
+                "hall": "B",
                 "origin": [
                     "KIX"
                 ],
                 "stand": "",
-                "status": "",
+                "status": "Est at 21:29",
                 "statusCode": null,
                 "terminal": "",
                 "time": "21:45"
             },
             {
-                "baggage": "",
+                "baggage": "8",
                 "flight": [
                     {
                         "airline": "CPA",
                         "no": "CX 381"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "PVG"
                 ],
@@ -5832,14 +5831,14 @@
                 "time": "21:55"
             },
             {
-                "baggage": "",
+                "baggage": "12",
                 "flight": [
                     {
                         "airline": "CPA",
                         "no": "CX 979"
                     }
                 ],
-                "hall": "",
+                "hall": "B",
                 "origin": [
                     "XMN"
                 ],
@@ -5850,7 +5849,7 @@
                 "time": "22:00"
             },
             {
-                "baggage": "",
+                "baggage": "14",
                 "flight": [
                     {
                         "airline": "JAL",
@@ -5873,18 +5872,18 @@
                         "no": "HA 5381"
                     }
                 ],
-                "hall": "",
+                "hall": "B",
                 "origin": [
                     "NRT"
                 ],
                 "stand": "",
-                "status": "",
+                "status": "Est at 21:53",
                 "statusCode": null,
                 "terminal": "",
                 "time": "22:00"
             },
             {
-                "baggage": "",
+                "baggage": "15",
                 "flight": [
                     {
                         "airline": "CPA",
@@ -5899,18 +5898,18 @@
                         "no": "AA 8907"
                     }
                 ],
-                "hall": "",
+                "hall": "B",
                 "origin": [
                     "SIN"
                 ],
                 "stand": "",
-                "status": "",
+                "status": "Est at 21:36",
                 "statusCode": null,
                 "terminal": "",
                 "time": "22:10"
             },
             {
-                "baggage": "",
+                "baggage": "5",
                 "flight": [
                     {
                         "airline": "ANA",
@@ -5929,36 +5928,36 @@
                         "no": "NZ 4147"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "NRT"
                 ],
                 "stand": "",
-                "status": "",
+                "status": "Est at 21:59",
                 "statusCode": null,
                 "terminal": "",
                 "time": "22:15"
             },
             {
-                "baggage": "",
+                "baggage": "10",
                 "flight": [
                     {
                         "airline": "HGB",
                         "no": "HB 684"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "BKK"
                 ],
                 "stand": "",
-                "status": "",
+                "status": "Est at 21:37",
                 "statusCode": null,
                 "terminal": "",
                 "time": "22:15"
             },
             {
-                "baggage": "",
+                "baggage": "9",
                 "flight": [
                     {
                         "airline": "AAR",
@@ -5969,25 +5968,25 @@
                         "no": "HX 1565"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "ICN"
                 ],
                 "stand": "",
-                "status": "",
+                "status": "Est at 22:42",
                 "statusCode": null,
                 "terminal": "",
                 "time": "22:30"
             },
             {
-                "baggage": "",
+                "baggage": "2",
                 "flight": [
                     {
                         "airline": "CPA",
                         "no": "CX 991"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "FOC"
                 ],
@@ -5998,7 +5997,7 @@
                 "time": "22:30"
             },
             {
-                "baggage": "",
+                "baggage": "6",
                 "flight": [
                     {
                         "airline": "KAL",
@@ -6013,18 +6012,18 @@
                         "no": "EY 8503"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "ICN"
                 ],
                 "stand": "",
-                "status": "",
+                "status": "Est at 22:22",
                 "statusCode": null,
                 "terminal": "",
                 "time": "22:30"
             },
             {
-                "baggage": "",
+                "baggage": "3",
                 "flight": [
                     {
                         "airline": "CPA",
@@ -6047,7 +6046,7 @@
                         "no": "OM 5629"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "SGN"
                 ],
@@ -6122,7 +6121,7 @@
                     "ICN"
                 ],
                 "stand": "",
-                "status": "",
+                "status": "Est at 22:56",
                 "statusCode": null,
                 "terminal": "",
                 "time": "23:00"
@@ -6162,7 +6161,7 @@
                     "TPE"
                 ],
                 "stand": "",
-                "status": "",
+                "status": "Est at 23:22",
                 "statusCode": null,
                 "terminal": "",
                 "time": "23:05"
@@ -6206,7 +6205,7 @@
                     "NRT"
                 ],
                 "stand": "",
-                "status": "",
+                "status": "Est at 23:21",
                 "statusCode": null,
                 "terminal": "",
                 "time": "23:15"
@@ -6438,7 +6437,7 @@
                         "no": "CX 2050"
                     }
                 ],
-                "status": "Est at 11:20 (28/03/2023)",
+                "status": "Dep 11:30 (28/03/2023)",
                 "statusCode": null,
                 "time": "23:45"
             }
@@ -7056,7 +7055,7 @@
                         "no": "K4 806"
                     }
                 ],
-                "status": "Est at 07:00",
+                "status": "Dep 07:05",
                 "statusCode": null,
                 "time": "07:00"
             },
@@ -7071,7 +7070,7 @@
                         "no": "FX 021"
                     }
                 ],
-                "status": "",
+                "status": "Dep 07:04",
                 "statusCode": null,
                 "time": "07:05"
             },
@@ -7085,7 +7084,7 @@
                         "no": "ED 7836"
                     }
                 ],
-                "status": "Est at 15:00",
+                "status": "Dep 15:33",
                 "statusCode": null,
                 "time": "07:10"
             },
@@ -7155,7 +7154,7 @@
                         "no": "CI 5826"
                     }
                 ],
-                "status": "Est at 12:15",
+                "status": "Dep 13:12",
                 "statusCode": null,
                 "time": "08:45"
             },
@@ -7169,7 +7168,7 @@
                         "no": "EK 9283"
                     }
                 ],
-                "status": "Est at 13:30",
+                "status": "Dep 13:31",
                 "statusCode": null,
                 "time": "09:30"
             },
@@ -7213,7 +7212,7 @@
                         "no": "F5 2270"
                     }
                 ],
-                "status": "",
+                "status": "Dep 10:59",
                 "statusCode": null,
                 "time": "11:00"
             },
@@ -7229,7 +7228,7 @@
                         "no": "5X 003"
                     }
                 ],
-                "status": "",
+                "status": "Dep 11:32",
                 "statusCode": null,
                 "time": "11:35"
             },
@@ -7243,7 +7242,7 @@
                         "no": "CX 036"
                     }
                 ],
-                "status": "",
+                "status": "Dep 12:38",
                 "statusCode": null,
                 "time": "11:55"
             },
@@ -7271,7 +7270,7 @@
                         "no": "OZ 968"
                     }
                 ],
-                "status": "",
+                "status": "Dep 12:54",
                 "statusCode": null,
                 "time": "12:30"
             },
@@ -7285,7 +7284,7 @@
                         "no": "RH 6651"
                     }
                 ],
-                "status": "",
+                "status": "Dep 15:28",
                 "statusCode": null,
                 "time": "12:30"
             },
@@ -7300,7 +7299,7 @@
                         "no": "5Y 8050"
                     }
                 ],
-                "status": "Est at 14:20",
+                "status": "Dep 14:20",
                 "statusCode": null,
                 "time": "12:45"
             },
@@ -7314,7 +7313,7 @@
                         "no": "7L 692"
                     }
                 ],
-                "status": "Est at 16:00",
+                "status": "Est at 20:30",
                 "statusCode": null,
                 "time": "13:00"
             },
@@ -7356,7 +7355,7 @@
                         "no": "CX 2045"
                     }
                 ],
-                "status": "",
+                "status": "Dep 14:12",
                 "statusCode": null,
                 "time": "13:30"
             },
@@ -7371,7 +7370,7 @@
                         "no": "5X 067"
                     }
                 ],
-                "status": "",
+                "status": "Dep 17:26",
                 "statusCode": null,
                 "time": "13:35"
             },
@@ -7414,7 +7413,7 @@
                         "no": "7L 148"
                     }
                 ],
-                "status": "Est at 18:30",
+                "status": "Dep 18:20",
                 "statusCode": null,
                 "time": "14:00"
             },
@@ -7429,7 +7428,7 @@
                         "no": "K4 631"
                     }
                 ],
-                "status": "",
+                "status": "Dep 14:51",
                 "statusCode": null,
                 "time": "14:30"
             },
@@ -7443,7 +7442,7 @@
                         "no": "NH 8542"
                     }
                 ],
-                "status": "",
+                "status": "Dep 14:37",
                 "statusCode": null,
                 "time": "14:30"
             },
@@ -7457,7 +7456,7 @@
                         "no": "QR 8409"
                     }
                 ],
-                "status": "Est at 15:50",
+                "status": "Dep 16:13",
                 "statusCode": null,
                 "time": "14:45"
             },
@@ -7471,7 +7470,7 @@
                         "no": "3S 582"
                     }
                 ],
-                "status": "",
+                "status": "Dep 14:55",
                 "statusCode": null,
                 "time": "14:55"
             },
@@ -7499,7 +7498,7 @@
                         "no": "MH 6117"
                     }
                 ],
-                "status": "",
+                "status": "Dep 15:42",
                 "statusCode": null,
                 "time": "16:00"
             },
@@ -7515,7 +7514,7 @@
                         "no": "PO 916"
                     }
                 ],
-                "status": "",
+                "status": "Dep 16:52",
                 "statusCode": null,
                 "time": "16:10"
             },
@@ -7531,7 +7530,7 @@
                         "no": "5X 061"
                     }
                 ],
-                "status": "Est at 16:10",
+                "status": "Dep 16:42",
                 "statusCode": null,
                 "time": "16:15"
             },
@@ -7547,7 +7546,7 @@
                         "no": "FX 014"
                     }
                 ],
-                "status": "",
+                "status": "Dep 16:22",
                 "statusCode": null,
                 "time": "16:35"
             },
@@ -7562,7 +7561,7 @@
                         "no": "5X 001"
                     }
                 ],
-                "status": "",
+                "status": "Dep 17:58",
                 "statusCode": null,
                 "time": "17:00"
             },
@@ -7576,7 +7575,7 @@
                         "no": "3S 519"
                     }
                 ],
-                "status": "",
+                "status": "Dep 17:38",
                 "statusCode": null,
                 "time": "17:40"
             },
@@ -7591,7 +7590,7 @@
                         "no": "C8 9262"
                     }
                 ],
-                "status": "",
+                "status": "Dep 18:14",
                 "statusCode": null,
                 "time": "18:20"
             },
@@ -7654,7 +7653,7 @@
                         "no": "D0 003"
                     }
                 ],
-                "status": "",
+                "status": "Dep 18:30",
                 "statusCode": null,
                 "time": "18:35"
             },
@@ -7684,7 +7683,7 @@
                         "no": "5X 063"
                     }
                 ],
-                "status": "",
+                "status": "Dep 18:56",
                 "statusCode": null,
                 "time": "19:05"
             },
@@ -7743,7 +7742,7 @@
                         "no": "KD 4522"
                     }
                 ],
-                "status": "",
+                "status": "Cancelled",
                 "statusCode": null,
                 "time": "20:15"
             },
@@ -7771,7 +7770,7 @@
                         "no": "ET 3229"
                     }
                 ],
-                "status": "Est at 11:05",
+                "status": "Dep 11:14",
                 "statusCode": null,
                 "time": "20:40"
             },
@@ -7800,7 +7799,7 @@
                         "no": "5Y 8131"
                     }
                 ],
-                "status": "Est at 21:50",
+                "status": "Est at 00:30 (29/03/2023)",
                 "statusCode": null,
                 "time": "20:55"
             },
@@ -7856,7 +7855,7 @@
                         "no": "CX 2033"
                     }
                 ],
-                "status": "",
+                "status": "Est at 12:55 (29/03/2023)",
                 "statusCode": null,
                 "time": "21:15"
             },
@@ -7973,7 +7972,7 @@
                         "no": "KD 3962"
                     }
                 ],
-                "status": "",
+                "status": "Est at 10:10 (29/03/2023)",
                 "statusCode": null,
                 "time": "23:15"
             },
@@ -8341,7 +8340,7 @@
                     }
                 ],
                 "gate": "520",
-                "status": "",
+                "status": "Dep 07:03",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "07:05"
@@ -9551,7 +9550,7 @@
                     }
                 ],
                 "gate": "1",
-                "status": "Gate Closed",
+                "status": "Dep 10:42",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "10:30"
@@ -9630,7 +9629,7 @@
                     }
                 ],
                 "gate": "18",
-                "status": "Gate Closed",
+                "status": "Dep 10:45",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "10:45"
@@ -9647,7 +9646,7 @@
                     }
                 ],
                 "gate": "29",
-                "status": "Gate Closed",
+                "status": "Dep 10:50",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "10:45"
@@ -9689,7 +9688,7 @@
                     }
                 ],
                 "gate": "26",
-                "status": "Gate Closed",
+                "status": "Dep 11:01",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "11:00"
@@ -9706,7 +9705,7 @@
                     }
                 ],
                 "gate": "45",
-                "status": "Gate Closed",
+                "status": "Dep 10:55",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "11:00"
@@ -9727,7 +9726,7 @@
                     }
                 ],
                 "gate": "15",
-                "status": "Gate Closed",
+                "status": "Dep 11:06",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "11:00"
@@ -9744,7 +9743,7 @@
                     }
                 ],
                 "gate": "46",
-                "status": "Final Call",
+                "status": "Dep 11:26",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "11:05"
@@ -9761,7 +9760,7 @@
                     }
                 ],
                 "gate": "5",
-                "status": "Boarding",
+                "status": "Dep 11:21",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "11:05"
@@ -9778,7 +9777,7 @@
                     }
                 ],
                 "gate": "8",
-                "status": "Final Call",
+                "status": "Dep 11:21",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "11:10"
@@ -9799,7 +9798,7 @@
                     }
                 ],
                 "gate": "19",
-                "status": "Final Call",
+                "status": "Dep 11:07",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "11:10"
@@ -9816,7 +9815,7 @@
                     }
                 ],
                 "gate": "11",
-                "status": "Final Call",
+                "status": "Dep 11:10",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "11:10"
@@ -9833,7 +9832,7 @@
                     }
                 ],
                 "gate": "28",
-                "status": "Final Call",
+                "status": "Dep 11:15",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "11:10"
@@ -9862,7 +9861,7 @@
                     }
                 ],
                 "gate": "64",
-                "status": "Final Call",
+                "status": "Dep 11:17",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "11:15"
@@ -9883,7 +9882,7 @@
                     }
                 ],
                 "gate": "33",
-                "status": "Boarding",
+                "status": "Dep 11:21",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "11:20"
@@ -9900,7 +9899,7 @@
                     }
                 ],
                 "gate": "47",
-                "status": "Final Call",
+                "status": "Dep 11:37",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "11:25"
@@ -9925,7 +9924,7 @@
                     }
                 ],
                 "gate": "31",
-                "status": "Boarding",
+                "status": "Dep 11:39",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "11:30"
@@ -9942,7 +9941,7 @@
                     }
                 ],
                 "gate": "25",
-                "status": "Boarding Soon",
+                "status": "Dep 11:44",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "11:30"
@@ -9959,7 +9958,7 @@
                     }
                 ],
                 "gate": "13",
-                "status": "Boarding Soon",
+                "status": "Dep 11:45",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "11:35"
@@ -9980,7 +9979,7 @@
                     }
                 ],
                 "gate": "41",
-                "status": "Boarding",
+                "status": "Dep 11:28",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "11:35"
@@ -9997,7 +9996,7 @@
                     }
                 ],
                 "gate": "49",
-                "status": "Boarding",
+                "status": "Dep 11:51",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "11:35"
@@ -10014,7 +10013,7 @@
                     }
                 ],
                 "gate": "29",
-                "status": "",
+                "status": "Dep 11:54",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "11:55"
@@ -10035,7 +10034,7 @@
                     }
                 ],
                 "gate": "63",
-                "status": "",
+                "status": "Dep 11:59",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "12:00"
@@ -10052,7 +10051,7 @@
                     }
                 ],
                 "gate": "40",
-                "status": "",
+                "status": "Dep 12:06",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "12:05"
@@ -10069,7 +10068,7 @@
                     }
                 ],
                 "gate": "32",
-                "status": "",
+                "status": "Dep 12:19",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "12:05"
@@ -10086,7 +10085,7 @@
                     }
                 ],
                 "gate": "30",
-                "status": "",
+                "status": "Dep 12:29",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "12:20"
@@ -10103,7 +10102,7 @@
                     }
                 ],
                 "gate": "24",
-                "status": "",
+                "status": "Dep 12:28",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "12:25"
@@ -10124,7 +10123,7 @@
                     }
                 ],
                 "gate": "42",
-                "status": "",
+                "status": "Dep 12:26",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "12:25"
@@ -10141,7 +10140,7 @@
                     }
                 ],
                 "gate": "9",
-                "status": "",
+                "status": "Dep 12:29",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "12:30"
@@ -10158,7 +10157,7 @@
                     }
                 ],
                 "gate": "71",
-                "status": "",
+                "status": "Dep 12:32",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "12:30"
@@ -10174,8 +10173,8 @@
                         "no": "HX 775"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "43",
+                "status": "Dep 15:42",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "12:35"
@@ -10196,7 +10195,7 @@
                     }
                 ],
                 "gate": "19",
-                "status": "",
+                "status": "Dep 12:45",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "12:45"
@@ -10213,7 +10212,7 @@
                     }
                 ],
                 "gate": "28",
-                "status": "",
+                "status": "Dep 12:49",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "12:45"
@@ -10230,7 +10229,7 @@
                     }
                 ],
                 "gate": "45",
-                "status": "",
+                "status": "Dep 12:43",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "12:50"
@@ -10247,7 +10246,7 @@
                     }
                 ],
                 "gate": "60",
-                "status": "",
+                "status": "Dep 12:55",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "12:50"
@@ -10268,7 +10267,7 @@
                     }
                 ],
                 "gate": "20",
-                "status": "",
+                "status": "Dep 13:02",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "13:00"
@@ -10285,7 +10284,7 @@
                     }
                 ],
                 "gate": "3",
-                "status": "",
+                "status": "Dep 13:08",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "13:05"
@@ -10302,7 +10301,7 @@
                     }
                 ],
                 "gate": "27",
-                "status": "",
+                "status": "Dep 13:00",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "13:05"
@@ -10322,8 +10321,8 @@
                         "no": "HU 8359"
                     }
                 ],
-                "gate": "17",
-                "status": "",
+                "gate": "13",
+                "status": "Dep 13:11",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "13:10"
@@ -10340,7 +10339,7 @@
                     }
                 ],
                 "gate": "29",
-                "status": "",
+                "status": "Dep 13:19",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "13:20"
@@ -10357,7 +10356,7 @@
                     }
                 ],
                 "gate": "10",
-                "status": "",
+                "status": "Dep 13:22",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "13:20"
@@ -10378,7 +10377,7 @@
                     }
                 ],
                 "gate": "16",
-                "status": "",
+                "status": "Dep 13:37",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "13:25"
@@ -10395,7 +10394,7 @@
                     }
                 ],
                 "gate": "11",
-                "status": "",
+                "status": "Dep 13:22",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "13:30"
@@ -10416,7 +10415,7 @@
                     }
                 ],
                 "gate": "65",
-                "status": "",
+                "status": "Dep 13:32",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "13:35"
@@ -10436,8 +10435,8 @@
                         "no": "HX 1824"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "26",
+                "status": "Dep 13:45",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "13:40"
@@ -10454,7 +10453,7 @@
                     }
                 ],
                 "gate": "520",
-                "status": "",
+                "status": "Dep 13:58",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "13:40"
@@ -10470,8 +10469,8 @@
                         "no": "SC 4790"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "63",
+                "status": "Dep 14:48",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "13:40"
@@ -10495,8 +10494,8 @@
                         "no": "BI 3403"
                     }
                 ],
-                "gate": "",
-                "status": "Est at 15:05",
+                "gate": "16",
+                "status": "Dep 15:09",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "13:55"
@@ -10512,8 +10511,8 @@
                         "no": "CX 919"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "43",
+                "status": "Dep 14:02",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "14:05"
@@ -10545,8 +10544,8 @@
                         "no": "BA 4571"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "1",
+                "status": "Dep 14:14",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "14:10"
@@ -10562,8 +10561,8 @@
                         "no": "CX 418"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "64",
+                "status": "Dep 14:30",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "14:25"
@@ -10592,7 +10591,7 @@
                     }
                 ],
                 "gate": "2",
-                "status": "",
+                "status": "Dep 14:26",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "14:25"
@@ -10612,8 +10611,8 @@
                         "no": "UA 7918"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "32",
+                "status": "Dep 14:34",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "14:30"
@@ -10629,8 +10628,8 @@
                         "no": "CA 112"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "31",
+                "status": "Dep 14:24",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "14:35"
@@ -10646,8 +10645,8 @@
                         "no": "MH 073"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "30",
+                "status": "Dep 14:41",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "14:35"
@@ -10667,8 +10666,8 @@
                         "no": "HU 8209"
                     }
                 ],
-                "gate": "",
-                "status": "Est at 15:35",
+                "gate": "13",
+                "status": "Dep 15:58",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "14:45"
@@ -10689,7 +10688,7 @@
                     }
                 ],
                 "gate": "15",
-                "status": "",
+                "status": "Dep 14:42",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "14:45"
@@ -10725,8 +10724,8 @@
                         "no": "BA 4145"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "3",
+                "status": "Dep 14:53",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "14:55"
@@ -10742,8 +10741,8 @@
                         "no": "CX 380"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "28",
+                "status": "Dep 15:31",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "15:00"
@@ -10767,8 +10766,8 @@
                         "no": "HO 3504"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "9",
+                "status": "Dep 15:19",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "15:05"
@@ -10792,8 +10791,8 @@
                         "no": "HA 5000"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "6",
+                "status": "Dep 15:22",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "15:15"
@@ -10809,8 +10808,8 @@
                         "no": "CA 420"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "47",
+                "status": "Dep 15:21",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "15:25"
@@ -10830,8 +10829,8 @@
                         "no": "HX 1826"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "60",
+                "status": "Dep 15:22",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "15:25"
@@ -10847,8 +10846,8 @@
                         "no": "HB 683"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "20",
+                "status": "Dep 15:14",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "15:25"
@@ -10864,8 +10863,8 @@
                         "no": "FD 501"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "10",
+                "status": "Dep 15:41",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "15:35"
@@ -10881,8 +10880,8 @@
                         "no": "SQ 893"
                     }
                 ],
-                "gate": "",
-                "status": "Est at 15:40",
+                "gate": "23",
+                "status": "Dep 15:43",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "15:40"
@@ -10899,7 +10898,7 @@
                     }
                 ],
                 "gate": "25",
-                "status": "",
+                "status": "Dep 15:44",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "15:45"
@@ -10923,8 +10922,8 @@
                         "no": "BA 4573"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "511",
+                "status": "Dep 16:14",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "15:45"
@@ -10944,8 +10943,8 @@
                         "no": "CX 5780"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "17",
+                "status": "Dep 15:49",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "15:50"
@@ -10977,8 +10976,8 @@
                         "no": "PG 4560"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "44",
+                "status": "Dep 16:02",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "15:55"
@@ -10994,8 +10993,8 @@
                         "no": "CX 810"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "69",
+                "status": "Dep 16:46",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "16:05"
@@ -11015,8 +11014,8 @@
                         "no": "MH 9197"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "40",
+                "status": "Dep 16:08",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "16:10"
@@ -11056,8 +11055,8 @@
                         "no": "BA 4563"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "24",
+                "status": "Dep 16:19",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "16:10"
@@ -11073,8 +11072,8 @@
                         "no": "ET 644"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "45",
+                "status": "Dep 16:00",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "16:15"
@@ -11098,8 +11097,8 @@
                         "no": "JL 7032"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "5",
+                "status": "Dep 16:32",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "16:20"
@@ -11123,8 +11122,8 @@
                         "no": "QR 5832"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "64",
+                "status": "Dep 16:24",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "16:25"
@@ -11144,8 +11143,8 @@
                         "no": "CX 5558"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "30",
+                "status": "Dep 16:20",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "16:25"
@@ -11169,8 +11168,8 @@
                         "no": "JL 7056"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "71",
+                "status": "Dep 16:37",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "16:30"
@@ -11186,8 +11185,8 @@
                         "no": "CX 903"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "2",
+                "status": "Dep 16:34",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "16:35"
@@ -11219,8 +11218,8 @@
                         "no": "AA 8901"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "1",
+                "status": "Dep 16:42",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "16:40"
@@ -11236,8 +11235,8 @@
                         "no": "CI 932"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "60",
+                "status": "Dep 16:42",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "16:45"
@@ -11257,8 +11256,8 @@
                         "no": "CX 5744"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "18",
+                "status": "Dep 16:44",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "16:45"
@@ -11274,8 +11273,8 @@
                         "no": "ZH 9096"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "63",
+                "status": "Dep 16:44",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "16:50"
@@ -11291,8 +11290,8 @@
                         "no": "CX 458"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "68",
+                "status": "Dep 16:54",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "16:50"
@@ -11312,8 +11311,8 @@
                         "no": "CX 5626"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "19",
+                "status": "Dep 16:51",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "16:50"
@@ -11329,8 +11328,8 @@
                         "no": "CX 731"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "49",
+                "status": "Dep 17:08",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "16:55"
@@ -11346,8 +11345,8 @@
                         "no": "MU 596"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "47",
+                "status": "Dep 17:01",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "17:00"
@@ -11363,8 +11362,8 @@
                         "no": "MF 8714"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "522",
+                "status": "Dep 17:24",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "17:15"
@@ -11380,8 +11379,8 @@
                         "no": "CX 826"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "23",
+                "status": "Dep 17:48",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "17:20"
@@ -11397,8 +11396,8 @@
                         "no": "CA 428"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "28",
+                "status": "Dep 17:20",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "17:25"
@@ -11414,8 +11413,8 @@
                         "no": "CX 364"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "7",
+                "status": "Dep 17:31",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "17:25"
@@ -11431,8 +11430,8 @@
                         "no": "CA 110"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "47",
+                "status": "Dep 18:50",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "17:30"
@@ -11448,8 +11447,8 @@
                         "no": "GJ 8054"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "524",
+                "status": "Dep 17:37",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "17:30"
@@ -11465,8 +11464,8 @@
                         "no": "CI 916"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "44",
+                "status": "Dep 17:39",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "17:35"
@@ -11486,8 +11485,8 @@
                         "no": "CX 5622"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "13",
+                "status": "Dep 17:39",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "17:35"
@@ -11507,8 +11506,8 @@
                         "no": "HX 1202"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "11",
+                "status": "Dep 17:29",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "17:40"
@@ -11540,8 +11539,8 @@
                         "no": "AA 8886"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "25",
+                "status": "Dep 18:23",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "17:45"
@@ -11557,8 +11556,8 @@
                         "no": "CX 978"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "29",
+                "status": "Dep 18:26",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "17:45"
@@ -11574,8 +11573,8 @@
                         "no": "9C 8922"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "520",
+                "status": "Dep 17:51",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "17:50"
@@ -11592,7 +11591,7 @@
                     }
                 ],
                 "gate": "66",
-                "status": "",
+                "status": "Dep 17:56",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "17:50"
@@ -11608,8 +11607,8 @@
                         "no": "AC 008"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "40",
+                "status": "Dep 18:36",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "18:00"
@@ -11625,8 +11624,8 @@
                         "no": "MU 2094"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "511",
+                "status": "Dep 18:00",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "18:05"
@@ -11650,8 +11649,8 @@
                         "no": "TK 9200"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "46",
+                "status": "Dep 18:01",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "18:05"
@@ -11667,8 +11666,8 @@
                         "no": "CX 402"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "64",
+                "status": "Dep 19:06",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "18:15"
@@ -11684,8 +11683,8 @@
                         "no": "Z2 1265"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "35",
+                "status": "Dep 18:16",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "18:15"
@@ -11705,8 +11704,8 @@
                         "no": "BR 2892"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "17",
+                "status": "Dep 18:21",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "18:30"
@@ -11738,8 +11737,8 @@
                         "no": "AA 8895"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "71",
+                "status": "Dep 18:43",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "18:35"
@@ -11759,8 +11758,8 @@
                         "no": "CX 5116"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "15",
+                "status": "Dep 18:28",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "18:35"
@@ -11776,8 +11775,8 @@
                         "no": "RA 410"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "10",
+                "status": "Dep 19:05",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "18:45"
@@ -11797,8 +11796,8 @@
                         "no": "TK 9224"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "68",
+                "status": "Dep 18:50",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "18:50"
@@ -11834,8 +11833,8 @@
                         "no": "LY 8791"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "5",
+                "status": "Dep 19:18",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "18:50"
@@ -11851,8 +11850,8 @@
                         "no": "3U 3960"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "27",
+                "status": "Dep 18:54",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "18:50"
@@ -11868,8 +11867,8 @@
                         "no": "MF 8652"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "44",
+                "status": "Dep 19:23",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "18:50"
@@ -11889,8 +11888,8 @@
                         "no": "MF 9422"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "523",
+                "status": "Dep 18:56",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "19:00"
@@ -11911,7 +11910,7 @@
                     }
                 ],
                 "gate": "61",
-                "status": "",
+                "status": "Dep 19:14",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "19:00"
@@ -11935,8 +11934,8 @@
                         "no": "BA 4575"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "43",
+                "status": "Dep 19:06",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "19:05"
@@ -11952,8 +11951,8 @@
                         "no": "5J 113"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "49",
+                "status": "Dep 19:19",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "19:25"
@@ -11993,8 +11992,8 @@
                         "no": "JU 8318"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "42",
+                "status": "Dep 19:29",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "19:30"
@@ -12010,8 +12009,8 @@
                         "no": "MF 8686"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "11",
+                "status": "Dep 19:31",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "19:30"
@@ -12031,8 +12030,8 @@
                         "no": "HX 1832"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "28",
+                "status": "Gate Closed",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "19:35"
@@ -12052,8 +12051,8 @@
                         "no": "CX 5226"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "18",
+                "status": "Gate Closed",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "19:45"
@@ -12069,8 +12068,8 @@
                         "no": "VJ 877"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "40",
+                "status": "Gate Closed",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "19:50"
@@ -12086,8 +12085,8 @@
                         "no": "TG 639"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "46",
+                "status": "Boarding Soon",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "19:55"
@@ -12103,8 +12102,8 @@
                         "no": "MU 506"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "23",
+                "status": "Final Call",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "20:05"
@@ -12120,8 +12119,8 @@
                         "no": "FD 525"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "34",
+                "status": "Final Call",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "20:05"
@@ -12137,8 +12136,8 @@
                         "no": "CI 920"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "35",
+                "status": "Boarding",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "20:10"
@@ -12154,8 +12153,8 @@
                         "no": "CX 988"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "13",
+                "status": "Boarding Soon",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "20:10"
@@ -12183,8 +12182,8 @@
                         "no": "AA 8948"
                     }
                 ],
-                "gate": "",
-                "status": "",
+                "gate": "4",
+                "status": "Est at 20:20",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "20:20"
@@ -12233,7 +12232,7 @@
                         "no": "AY 100"
                     }
                 ],
-                "gate": "",
+                "gate": "6",
                 "status": "",
                 "statusCode": null,
                 "terminal": "T1",
@@ -12270,7 +12269,7 @@
                         "no": "AA 8903"
                     }
                 ],
-                "gate": "",
+                "gate": "41",
                 "status": "",
                 "statusCode": null,
                 "terminal": "T1",
@@ -12287,7 +12286,7 @@
                         "no": "CX 623"
                     }
                 ],
-                "gate": "",
+                "gate": "62",
                 "status": "",
                 "statusCode": null,
                 "terminal": "T1",
@@ -12328,7 +12327,7 @@
                         "no": "LX 9521"
                     }
                 ],
-                "gate": "",
+                "gate": "65",
                 "status": "",
                 "statusCode": null,
                 "terminal": "T1",
@@ -12345,7 +12344,7 @@
                         "no": "AK 131"
                     }
                 ],
-                "gate": "",
+                "gate": "29",
                 "status": "",
                 "statusCode": null,
                 "terminal": "T1",
@@ -12363,7 +12362,7 @@
                         "no": "EK 385"
                     }
                 ],
-                "gate": "",
+                "gate": "60",
                 "status": "",
                 "statusCode": null,
                 "terminal": "T1",
@@ -12380,7 +12379,7 @@
                         "no": "CX 939"
                     }
                 ],
-                "gate": "",
+                "gate": "32",
                 "status": "",
                 "statusCode": null,
                 "terminal": "T1",
@@ -12397,7 +12396,7 @@
                         "no": "CX 251"
                     }
                 ],
-                "gate": "",
+                "gate": "3",
                 "status": "",
                 "statusCode": null,
                 "terminal": "T1",
@@ -12414,7 +12413,7 @@
                         "no": "5J 115"
                     }
                 ],
-                "gate": "",
+                "gate": "34",
                 "status": "",
                 "statusCode": null,
                 "terminal": "T1",
@@ -12448,7 +12447,7 @@
                         "no": "LX 139"
                     }
                 ],
-                "gate": "",
+                "gate": "9",
                 "status": "",
                 "statusCode": null,
                 "terminal": "T1",
@@ -12465,7 +12464,7 @@
                         "no": "UA 878"
                     }
                 ],
-                "gate": "",
+                "gate": "44",
                 "status": "",
                 "statusCode": null,
                 "terminal": "T1",
@@ -12499,7 +12498,7 @@
                         "no": "CX 261"
                     }
                 ],
-                "gate": "",
+                "gate": "2",
                 "status": "",
                 "statusCode": null,
                 "terminal": "T1",
@@ -12537,7 +12536,7 @@
                         "no": "TK 9227"
                     }
                 ],
-                "gate": "",
+                "gate": "47",
                 "status": "",
                 "statusCode": null,
                 "terminal": "T1",
@@ -12562,7 +12561,7 @@
                         "no": "NZ 4851"
                     }
                 ],
-                "gate": "",
+                "gate": "45",
                 "status": "",
                 "statusCode": null,
                 "terminal": "T1",
@@ -12600,7 +12599,7 @@
                         "no": "BA 032"
                     }
                 ],
-                "gate": "",
+                "gate": "26",
                 "status": "",
                 "statusCode": null,
                 "terminal": "T1",
@@ -12617,7 +12616,7 @@
                         "no": "BA 028"
                     }
                 ],
-                "gate": "",
+                "gate": "24",
                 "status": "",
                 "statusCode": null,
                 "terminal": "T1",
@@ -12655,7 +12654,7 @@
                         "no": "CX 5624"
                     }
                 ],
-                "gate": "",
+                "gate": "19",
                 "status": "",
                 "statusCode": null,
                 "terminal": "T1",

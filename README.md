@@ -53,7 +53,7 @@ For MacOS users, you may run the following command in your terminal:
 
         pip install python
 
-After you install this library, you can use your terminal to get into the folder and type the following command to run this porgramme:
+After you install this library, you can use your terminal to get into the folder and type the following command to run this porgramme:  
 在你安装了这个库之后，你可以用你的终端进入这个文件夹，并输入以下命令来运行这个程序：  
 
         python main.py
