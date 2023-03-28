@@ -76,7 +76,7 @@ I've already add function for changing path format of Windows, but I am trying h
     ⣿⣿⣿⠋⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⣿⣿    
     ⣿⣿⠋⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⢸⣿  
 
-Place a kitten here and pet it once for free. 
+Place a kitten here and pet it once for free.   
 放一只小猫在这里免费摸一次  
 
     ┈┈┈┈╱▏┈┈┈┈┈╱▔▔▔▔╲┈┈┈┈┈
