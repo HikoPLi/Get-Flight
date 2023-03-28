@@ -21,39 +21,40 @@ Output:
 
 
 # Get_flight
-This programme can only run on mac because of the path.  
- But I'll write one for windows version.
+This programme can only run on mac because of the path.   
+ But I'll write one for windows version.  
 
  由于路径的原因，这个程序只能在Mac上运行。   
  但我会写一个Windows版本。  
 
  To download this programme, you can get access to github.com.
- You may type this command to clone the repo from github:
- 要下载这个程序，你可以访问github.com。  
+ You may type this command to clone the repo from github:  
+ 要下载这个程序，你可以访问github.com，
  你可以输入这个命令，从github上克隆该程序：  
 
     git clone git@github.com:HikoPLi/Get-Flight.git
 
-Or you may get access to the repo:
+Or you may get access to the repo:  
 或者直接访问库：  
 
     https://github.com/HikoPLi/Get-Flight
 
-And download the .zip file.
+And download the .zip file.  
 下载zip文件。  
 
- If you want to run this programme successfully, you need to install python library.
+ If you want to run this programme successfully, you need to install python library.  
  如果你想成功运行这个程序，你需要安装python库。  
 
 
 # Run the programme (MacOS Version)
-For MacOS users, you may run the following command in your terminal:
+For MacOS users, you may run the following command in your terminal:  
 对于MacOS用户，你可以在终端运行以下命令：  
 
         pip install python
 
 After you install this library, you can use your terminal to get into the folder and type the following command to run this porgramme:
 在你安装了这个库之后，你可以用你的终端进入这个文件夹，并输入以下命令来运行这个程序：  
+
         python main.py
 
 # Run the programme (Windows Version)
