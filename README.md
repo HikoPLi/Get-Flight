@@ -59,7 +59,7 @@ After you install this library, you can use your terminal to get into the folder
 
 # Run the programme (Windows Version)
 
-I've already add function for changing path format of Windows, but I am trying hard to convert .py file to .exe file so that it'll more easier to run in Windows.
+I've already add function for changing path format of Windows, but I am trying hard to convert .py file to .exe file so that it'll more easier to run in Windows.  
 我已经添加了改变Windows路径格式的功能，但我正努力将.py文件转换为.exe文件，这样它就更容易在Windows中运行。  
 
     ⣿⣿⣿⠟⠛⠛⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⢋⣩⣉⢻⣿⣿  
@@ -87,7 +87,7 @@ Place a kitten here and pet it once for free.
     ┈┈┈┈╲╱╲╱┈┈┈┈╲╲▂╲▂┈┈┈┈┈
     ┈┈┈┈┈┈┈┈┈┈┈┈┈╲╱╲╱┈┈┈┈┈
 
-Place a puppy here and pet it once for free. 
+Place a puppy here and pet it once for free.  
 放一只小狗在这里免费摸一次   
 
 # Contact Me (Englihs and Chinese are available)
@@ -96,7 +96,7 @@ If you have questions or have some ideas for this project, you can contact me vi
 
         lihikopgithub@outlook.com
 
-Or if you have Wechat
+Or if you have Wechat  
 微信联系方式：  
 
         Wechat ID: LiLiLiLiLi11211
