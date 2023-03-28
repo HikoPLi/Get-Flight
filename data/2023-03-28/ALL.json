@@ -1337,7 +1337,7 @@
                     "ATL",
                     "ANC"
                 ],
-                "status": "Est at 19:52",
+                "status": "At gate 20:08",
                 "statusCode": null,
                 "time": "18:20"
             },
@@ -1407,7 +1407,7 @@
                 "origin": [
                     "TPE"
                 ],
-                "status": "Est at 20:13",
+                "status": "At gate 20:23",
                 "statusCode": null,
                 "time": "20:45"
             },
@@ -1423,7 +1423,7 @@
                     "ANC",
                     "ICN"
                 ],
-                "status": "Est at 20:43",
+                "status": "Est at 20:45",
                 "statusCode": null,
                 "time": "21:05"
             },
@@ -4887,7 +4887,7 @@
                     "SFO"
                 ],
                 "stand": "W44",
-                "status": "Landed 19:41",
+                "status": "At gate 19:49",
                 "statusCode": null,
                 "terminal": "",
                 "time": "18:45"
@@ -4985,7 +4985,7 @@
                     "XIY"
                 ],
                 "stand": "N10",
-                "status": "Landed 19:37",
+                "status": "At gate 19:47",
                 "statusCode": null,
                 "terminal": "",
                 "time": "19:05"
@@ -5127,7 +5127,7 @@
                     "PVG"
                 ],
                 "stand": "S103",
-                "status": "Landed 19:29",
+                "status": "At gate 19:43",
                 "statusCode": null,
                 "terminal": "",
                 "time": "19:45"
@@ -5167,7 +5167,7 @@
                     "NRT"
                 ],
                 "stand": "N145",
-                "status": "Est at 19:54",
+                "status": "At gate 20:05",
                 "statusCode": null,
                 "terminal": "",
                 "time": "19:50"
@@ -5189,7 +5189,7 @@
                     "NRT"
                 ],
                 "stand": "S47",
-                "status": "Landed 19:38",
+                "status": "At gate 19:50",
                 "statusCode": null,
                 "terminal": "",
                 "time": "20:00"
@@ -5215,7 +5215,7 @@
                     "HND"
                 ],
                 "stand": "S27",
-                "status": "Est at 19:59",
+                "status": "At gate 20:14",
                 "statusCode": null,
                 "terminal": "",
                 "time": "20:00"
@@ -5237,7 +5237,7 @@
                     "BKK"
                 ],
                 "stand": "W125",
-                "status": "Est at 20:11",
+                "status": "At gate 20:23",
                 "statusCode": null,
                 "terminal": "",
                 "time": "20:00"
@@ -5259,7 +5259,7 @@
                     "KIX"
                 ],
                 "stand": "S102",
-                "status": "Est at 20:04",
+                "status": "At gate 20:16",
                 "statusCode": null,
                 "terminal": "",
                 "time": "20:10"
@@ -5277,7 +5277,7 @@
                     "MNL"
                 ],
                 "stand": "S43",
-                "status": "Est at 19:49",
+                "status": "At gate 19:59",
                 "statusCode": null,
                 "terminal": "",
                 "time": "20:15"
@@ -5303,7 +5303,7 @@
                     "CGK"
                 ],
                 "stand": "W61",
-                "status": "Est at 20:02",
+                "status": "At gate 20:14",
                 "statusCode": null,
                 "terminal": "",
                 "time": "20:25"
@@ -5325,7 +5325,7 @@
                     "NKG"
                 ],
                 "stand": "",
-                "status": "Est at 21:37",
+                "status": "Est at 21:43",
                 "statusCode": null,
                 "terminal": "",
                 "time": "20:30"
@@ -5343,7 +5343,7 @@
                     "PVG"
                 ],
                 "stand": "W71",
-                "status": "Est at 20:29",
+                "status": "Landed 20:28",
                 "statusCode": null,
                 "terminal": "",
                 "time": "20:30"
@@ -5365,7 +5365,7 @@
                     "PEK"
                 ],
                 "stand": "S11",
-                "status": "Est at 20:14",
+                "status": "At gate 20:27",
                 "statusCode": null,
                 "terminal": "",
                 "time": "20:35"
@@ -5383,7 +5383,7 @@
                     "KUL"
                 ],
                 "stand": "S29",
-                "status": "Est at 20:32",
+                "status": "Landed 20:31",
                 "statusCode": null,
                 "terminal": "",
                 "time": "20:40"
@@ -5400,8 +5400,8 @@
                 "origin": [
                     "TPE"
                 ],
-                "stand": "",
-                "status": "Est at 20:22",
+                "stand": "W42",
+                "status": "Landed 20:23",
                 "statusCode": null,
                 "terminal": "",
                 "time": "20:45"
@@ -5418,8 +5418,8 @@
                 "origin": [
                     "KHH"
                 ],
-                "stand": "",
-                "status": "Est at 20:35",
+                "stand": "W40",
+                "status": "Est at 20:37",
                 "statusCode": null,
                 "terminal": "",
                 "time": "20:50"
@@ -5437,7 +5437,7 @@
                     "MNL"
                 ],
                 "stand": "N34",
-                "status": "Est at 20:44",
+                "status": "Est at 20:46",
                 "statusCode": null,
                 "terminal": "",
                 "time": "20:50"
@@ -5462,8 +5462,8 @@
                 "origin": [
                     "KIX"
                 ],
-                "stand": "",
-                "status": "Est at 20:34",
+                "stand": "W46",
+                "status": "Landed 20:33",
                 "statusCode": null,
                 "terminal": "",
                 "time": "20:55"
@@ -5488,8 +5488,8 @@
                 "origin": [
                     "KIX"
                 ],
-                "stand": "",
-                "status": "Est at 20:37",
+                "stand": "S23",
+                "status": "Est at 20:39",
                 "statusCode": null,
                 "terminal": "",
                 "time": "20:55"
@@ -5515,7 +5515,7 @@
                     "CTS"
                 ],
                 "stand": "N64",
-                "status": "Est at 20:36",
+                "status": "Est at 20:35",
                 "statusCode": null,
                 "terminal": "",
                 "time": "21:00"
@@ -5536,7 +5536,7 @@
                 "origin": [
                     "NGO"
                 ],
-                "stand": "",
+                "stand": "R18",
                 "status": "Est at 20:55",
                 "statusCode": null,
                 "terminal": "",
@@ -5558,8 +5558,8 @@
                 "origin": [
                     "NRT"
                 ],
-                "stand": "",
-                "status": "Est at 21:08",
+                "stand": "S101",
+                "status": "Est at 21:00",
                 "statusCode": null,
                 "terminal": "",
                 "time": "21:00"
@@ -5577,7 +5577,7 @@
                     "PEK"
                 ],
                 "stand": "W124",
-                "status": "Est at 20:43",
+                "status": "Est at 20:41",
                 "statusCode": null,
                 "terminal": "",
                 "time": "21:05"
@@ -5607,7 +5607,7 @@
                     "DPS"
                 ],
                 "stand": "",
-                "status": "Est at 20:56",
+                "status": "Est at 20:51",
                 "statusCode": null,
                 "terminal": "",
                 "time": "21:05"
@@ -5628,8 +5628,8 @@
                 "origin": [
                     "DAD"
                 ],
-                "stand": "",
-                "status": "Est at 20:41",
+                "stand": "S105",
+                "status": "Est at 20:43",
                 "statusCode": null,
                 "terminal": "",
                 "time": "21:10"
@@ -5659,7 +5659,7 @@
                     "NRT"
                 ],
                 "stand": "",
-                "status": "Est at 21:04",
+                "status": "Est at 20:59",
                 "statusCode": null,
                 "terminal": "",
                 "time": "21:20"
@@ -5688,8 +5688,8 @@
                 "origin": [
                     "SYD"
                 ],
-                "stand": "",
-                "status": "Est at 21:10",
+                "stand": "S1",
+                "status": "Est at 21:04",
                 "statusCode": null,
                 "terminal": "",
                 "time": "21:30"
@@ -5715,7 +5715,7 @@
                     "BKK"
                 ],
                 "stand": "N5",
-                "status": "Est at 20:45",
+                "status": "Est at 20:48",
                 "statusCode": null,
                 "terminal": "",
                 "time": "21:30"
@@ -5732,8 +5732,8 @@
                 "origin": [
                     "MNL"
                 ],
-                "stand": "",
-                "status": "Est at 21:21",
+                "stand": "N62",
+                "status": "Est at 21:22",
                 "statusCode": null,
                 "terminal": "",
                 "time": "21:35"
@@ -5751,7 +5751,7 @@
                     "TPE"
                 ],
                 "stand": "",
-                "status": "",
+                "status": "Est at 21:40",
                 "statusCode": null,
                 "terminal": "",
                 "time": "21:45"
@@ -5780,8 +5780,8 @@
                 "origin": [
                     "MEL"
                 ],
-                "stand": "",
-                "status": "Est at 21:14",
+                "stand": "S4",
+                "status": "Est at 21:17",
                 "statusCode": null,
                 "terminal": "",
                 "time": "21:45"
@@ -5825,7 +5825,7 @@
                     "PVG"
                 ],
                 "stand": "",
-                "status": "",
+                "status": "Est at 22:02",
                 "statusCode": null,
                 "terminal": "",
                 "time": "21:55"
@@ -5843,7 +5843,7 @@
                     "XMN"
                 ],
                 "stand": "",
-                "status": "",
+                "status": "Est at 22:39",
                 "statusCode": null,
                 "terminal": "",
                 "time": "22:00"
@@ -5950,7 +5950,7 @@
                 "origin": [
                     "BKK"
                 ],
-                "stand": "",
+                "stand": "S108",
                 "status": "Est at 21:37",
                 "statusCode": null,
                 "terminal": "",
@@ -6051,31 +6051,31 @@
                     "SGN"
                 ],
                 "stand": "",
-                "status": "",
+                "status": "Est at 22:25",
                 "statusCode": null,
                 "terminal": "",
                 "time": "22:40"
             },
             {
-                "baggage": "",
+                "baggage": "13",
                 "flight": [
                     {
                         "airline": "CPA",
                         "no": "CX 902"
                     }
                 ],
-                "hall": "",
+                "hall": "B",
                 "origin": [
                     "MNL"
                 ],
                 "stand": "",
-                "status": "",
+                "status": "Est at 22:12",
                 "statusCode": null,
                 "terminal": "",
                 "time": "22:45"
             },
             {
-                "baggage": "",
+                "baggage": "10",
                 "flight": [
                     {
                         "airline": "CPA",
@@ -6094,18 +6094,18 @@
                         "no": "QR 3469"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "BKK"
                 ],
                 "stand": "",
-                "status": "",
+                "status": "Est at 22:27",
                 "statusCode": null,
                 "terminal": "",
                 "time": "22:55"
             },
             {
-                "baggage": "",
+                "baggage": "7",
                 "flight": [
                     {
                         "airline": "CPA",
@@ -6116,7 +6116,7 @@
                         "no": "AA 8912"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "ICN"
                 ],
@@ -6127,7 +6127,7 @@
                 "time": "23:00"
             },
             {
-                "baggage": "",
+                "baggage": "12",
                 "flight": [
                     {
                         "airline": "CRK",
@@ -6138,7 +6138,7 @@
                         "no": "BR 2891"
                     }
                 ],
-                "hall": "",
+                "hall": "B",
                 "origin": [
                     "TPE"
                 ],
@@ -6149,14 +6149,14 @@
                 "time": "23:05"
             },
             {
-                "baggage": "",
+                "baggage": "14",
                 "flight": [
                     {
                         "airline": "CPA",
                         "no": "CX 479"
                     }
                 ],
-                "hall": "",
+                "hall": "B",
                 "origin": [
                     "TPE"
                 ],
@@ -6167,7 +6167,7 @@
                 "time": "23:05"
             },
             {
-                "baggage": "",
+                "baggage": "15",
                 "flight": [
                     {
                         "airline": "HKE",
@@ -6178,7 +6178,7 @@
                         "no": "CX 5755"
                     }
                 ],
-                "hall": "",
+                "hall": "B",
                 "origin": [
                     "CNX"
                 ],
@@ -6189,7 +6189,7 @@
                 "time": "23:10"
             },
             {
-                "baggage": "",
+                "baggage": "17",
                 "flight": [
                     {
                         "airline": "HKE",
@@ -6200,7 +6200,7 @@
                         "no": "CX 5647"
                     }
                 ],
-                "hall": "",
+                "hall": "B",
                 "origin": [
                     "NRT"
                 ],
@@ -6211,14 +6211,14 @@
                 "time": "23:15"
             },
             {
-                "baggage": "",
+                "baggage": "8",
                 "flight": [
                     {
                         "airline": "ETH",
                         "no": "ET 645"
                     }
                 ],
-                "hall": "",
+                "hall": "A",
                 "origin": [
                     "MNL"
                 ],
@@ -6229,14 +6229,14 @@
                 "time": "23:25"
             },
             {
-                "baggage": "",
+                "baggage": "12",
                 "flight": [
                     {
                         "airline": "CPA",
                         "no": "CX 989"
                     }
                 ],
-                "hall": "",
+                "hall": "B",
                 "origin": [
                     "CAN"
                 ],
@@ -6281,7 +6281,7 @@
                     "SIN"
                 ],
                 "stand": "",
-                "status": "",
+                "status": "Est at 23:48",
                 "statusCode": null,
                 "terminal": "",
                 "time": "23:50"
@@ -6299,7 +6299,7 @@
                     "KIX"
                 ],
                 "stand": "",
-                "status": "",
+                "status": "Est at 00:14 (29/03/2023)",
                 "statusCode": null,
                 "terminal": "",
                 "time": "23:55"
@@ -7313,7 +7313,7 @@
                         "no": "7L 692"
                     }
                 ],
-                "status": "Est at 20:30",
+                "status": "Dep 20:30",
                 "statusCode": null,
                 "time": "13:00"
             },
@@ -7604,7 +7604,7 @@
                         "no": "CX 2026"
                     }
                 ],
-                "status": "",
+                "status": "Dep 18:10",
                 "statusCode": null,
                 "time": "18:20"
             },
@@ -7638,7 +7638,7 @@
                         "no": "LH 8093"
                     }
                 ],
-                "status": "Est at 19:30",
+                "status": "Dep 20:21",
                 "statusCode": null,
                 "time": "18:30"
             },
@@ -7668,7 +7668,7 @@
                         "no": "F5 6617"
                     }
                 ],
-                "status": "",
+                "status": "Dep 20:01",
                 "statusCode": null,
                 "time": "19:00"
             },
@@ -7712,7 +7712,7 @@
                         "no": "RH 317"
                     }
                 ],
-                "status": "Est at 20:00",
+                "status": "Dep 20:01",
                 "statusCode": null,
                 "time": "20:05"
             },
@@ -7727,7 +7727,7 @@
                         "no": "SQ 7364"
                     }
                 ],
-                "status": "",
+                "status": "Dep 19:40",
                 "statusCode": null,
                 "time": "20:10"
             },
@@ -7756,7 +7756,7 @@
                         "no": "CI 5822"
                     }
                 ],
-                "status": "",
+                "status": "Dep 19:53",
                 "statusCode": null,
                 "time": "20:15"
             },
@@ -12031,7 +12031,7 @@
                     }
                 ],
                 "gate": "28",
-                "status": "Gate Closed",
+                "status": "Dep 19:52",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "19:35"
@@ -12052,7 +12052,7 @@
                     }
                 ],
                 "gate": "18",
-                "status": "Gate Closed",
+                "status": "Dep 19:45",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "19:45"
@@ -12069,7 +12069,7 @@
                     }
                 ],
                 "gate": "40",
-                "status": "Gate Closed",
+                "status": "Dep 19:37",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "19:50"
@@ -12086,7 +12086,7 @@
                     }
                 ],
                 "gate": "46",
-                "status": "Boarding Soon",
+                "status": "Dep 20:16",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "19:55"
@@ -12103,7 +12103,7 @@
                     }
                 ],
                 "gate": "23",
-                "status": "Final Call",
+                "status": "Dep 19:55",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "20:05"
@@ -12120,7 +12120,7 @@
                     }
                 ],
                 "gate": "34",
-                "status": "Final Call",
+                "status": "Dep 20:07",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "20:05"
@@ -12137,7 +12137,7 @@
                     }
                 ],
                 "gate": "35",
-                "status": "Boarding",
+                "status": "Dep 20:08",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "20:10"
@@ -12154,7 +12154,7 @@
                     }
                 ],
                 "gate": "13",
-                "status": "Boarding Soon",
+                "status": "Dep 20:12",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "20:10"
@@ -12183,7 +12183,7 @@
                     }
                 ],
                 "gate": "4",
-                "status": "Est at 20:20",
+                "status": "Gate Closed",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "20:20"
@@ -12216,7 +12216,7 @@
                     }
                 ],
                 "gate": "67",
-                "status": "",
+                "status": "Dep 20:30",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "20:30"
@@ -12233,7 +12233,7 @@
                     }
                 ],
                 "gate": "6",
-                "status": "",
+                "status": "Dep 20:30",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "20:35"
@@ -12270,7 +12270,7 @@
                     }
                 ],
                 "gate": "41",
-                "status": "",
+                "status": "Gate Closed",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "20:45"
@@ -12287,7 +12287,7 @@
                     }
                 ],
                 "gate": "62",
-                "status": "",
+                "status": "Final Call",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "20:55"
@@ -12328,7 +12328,7 @@
                     }
                 ],
                 "gate": "65",
-                "status": "",
+                "status": "Boarding Soon",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "21:10"
@@ -12345,7 +12345,7 @@
                     }
                 ],
                 "gate": "29",
-                "status": "",
+                "status": "Boarding Soon",
                 "statusCode": null,
                 "terminal": "T1",
                 "time": "21:25"
@@ -12430,7 +12430,7 @@
                         "no": "PR 311"
                     }
                 ],
-                "gate": "",
+                "gate": "62",
                 "status": "",
                 "statusCode": null,
                 "terminal": "T1",
@@ -12515,7 +12515,7 @@
                         "no": "CX 255"
                     }
                 ],
-                "gate": "",
+                "gate": "35",
                 "status": "",
                 "statusCode": null,
                 "terminal": "T1",
@@ -12633,7 +12633,7 @@
                         "no": "LH 797"
                     }
                 ],
-                "gate": "",
+                "gate": "28",
                 "status": "",
                 "statusCode": null,
                 "terminal": "T1",
@@ -12695,7 +12695,7 @@
                         "no": "LH 7003"
                     }
                 ],
-                "gate": "",
+                "gate": "1",
                 "status": "",
                 "statusCode": null,
                 "terminal": "T1",

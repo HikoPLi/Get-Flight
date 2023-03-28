@@ -93,7 +93,7 @@ Place a puppy here and pet it once for free.
 
 # Contact Me (Englihs and Chinese are available)
 If you have questions or have some ideas for this project, you can contact me via this email:  
-如果你有问题或有一些想法来该近这个项目，你可以通过这个电子邮件与我联系：  
+如果你有问题或有一些想法来改进这个项目，你可以通过这个电子邮件与我联系：  
 
         lihikopgithub@outlook.com
 
