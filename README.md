@@ -4,7 +4,7 @@ This programme is used to check how many airlines arrive and departure of HKIA (
   
 And all inforamtion will be saved as .json files in different folder.  
 
-这个程序是用来检查有多少航空公司到达和离开香港国际机场（香港国际机场）。   
+这个程序是用来检查有多少航空公司到达和离开HKIA（香港国际机场）。   
   
 所有信息将以.json文件保存在不同的文件夹中。  
 
@@ -14,7 +14,7 @@ If I want to check the number of airlines at 2023-03-20:
 如果我想在2023-03-20查找航空器进出港的数量：  
 
     Input: 2023-03-20
-    
+
 Output:  
 ![Image text](https://github.com/HikoPLi/Get-Flight/blob/main/Images4README/example.png)  
   
